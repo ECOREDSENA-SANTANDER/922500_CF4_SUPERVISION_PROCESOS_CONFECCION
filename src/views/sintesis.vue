@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El manejo de softwares para la elaboración de patrones y escalado digital es esencial para la comprensión de esta temática. El proceso de digitalización abarca desde el reconocimiento de la interfaz hasta el trazo automático. Los softwares Audaces 360 y OptiTex se abordarán en detalle, mientras que Gerber es un software que no se utiliza mucho en la actualidad, por ello se trata solo como referencia.
 
     .row.justify-content-center
       .col-lg-10.mb-5
