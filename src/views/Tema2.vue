@@ -10,8 +10,8 @@
 
     .row.mb-5.bloque-cus-3
       .col-sm-12.col-lg-7.p-5
-            p.mb-5 OptiTex es un sistema CAD/CAM (Diseño Asistido por Computador y Manufacturas Asistidas por Computador) 2D y 3D, el cual mejora la rentabilidad en las empresas permitiendo un ahorro de tiempo y minimización del desperdicio de la materia prima, en la elaboración de sus productos. Este software es el más utilizado en Colombia actualmente por las empresas manufactureras.
-            p.mb-0 En esta unidad temática el enfoque se realiza en patrones únicamente de la línea femenina, sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz, aplica para cualquier línea y debe tener en cuenta el desarrollo del trabajo manual para aplicarlo de manera digital.
+            p.mb-5 #[i OptiTex] es un sistema #[i CAD/CAM] (Diseño asistido por computador y Manufacturas Asistidas por Computador) 2D y 3D, el cual mejora la rentabilidad en las empresas permitiendo un ahorro de tiempo y minimización del desperdicio de la materia prima, en la elaboración de sus productos. Este #[i software ] es el más utilizado en Colombia actualmente por las empresas manufactureras.
+            p.mb-0 En esta unidad temática el enfoque se realiza en patrones únicamente de la línea femenina, sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz, aplica para cualquier línea, debe tener en cuenta el desarrollo del trabajo manual para aplicarlo de manera digital.
       .col-sm-12.col-lg-4
         figure
           img.img-cus-3.d-none.d-lg-block(src='@/assets/curso/tema2/img01.svg' alt="Figura.")
@@ -19,32 +19,32 @@
 
     
 
-    p.mb-5(data-aos="fade-right") OptiTex ofrece un paquete completo para suplir este tipo de necesidades, estos softwares son:
+    p.mb-5(data-aos="fade-right") #[i OptiTex] ofrece un paquete completo para suplir este tipo de necesidades, estos softwares son:
     
     .row.my-5
       .col-lg-4.d-flex(data-aos="fade-right")
         div.bg-img-1.d-flex.flex-column     
           div.p-4.bg-9
-            h3.m-0.text-center PDS
+            h3.m-0.text-center #[i #[i PDS ] ]
           div.p-5.d-flex.align-items-center(style="height:100%")
             p.text-center Sistema de diseño de patrones, también se pueden anexar por la mesa digitalizadora. 
       .col-lg-4.d-flex(data-aos="fade-up")
         div.bg-img-1.d-flex.flex-column          
           div.p-4.bg-9
-            h3.m-0.text-center Marker
+            h3.m-0.text-center #[i Marker ]
           div.p-5.d-flex.align-items-center(style="height:100%")
             p.text-center Es el acomodo de piezas para el corte industrial, se puede realizar de forma manual o automática. Reportes del trazo.
       .col-lg-4.d-flex(data-aos="fade-left")
         div.bg-img-1.d-flex.flex-column           
           div.p-4.bg-9
-            h3.m-0.text-center RunwayViewer
+            h3.m-0.text-center #[i RunwayViewer ]
           div.p-5.d-flex.align-items-center(style="height:100%")
-            p.text-center Es un sistema de simulación de prendas en un avatar, que puede ser personalizado según la tabla de medidas, se basa en las características de los patrones realizados en PDS y en las características precisas de las telas reales.
+            p.text-center Es un sistema de simulación de prendas en un avatar, que puede ser personalizado según la tabla de medidas, se basa en las características de los patrones realizados en #[i PDS ] y en las características precisas de las telas reales.
 
-    p.mb-5(data-aos="fade-right") A continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
+    p.mb-5(data-aos="fade-right") A continuación, se describirán las características generales del #[i software ] enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
     .titulo-segundo.color-acento-contenido
-      h3(data-aos="fade-right") Características del software OptiTex
-    p.mb-5(data-aos="fade-right") Optitex permite construir de manera dinámica patrones con alta precisión, para ello, emplea una ubicación espacial basados en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, partiendo de figuras geométricas o líneas dibujadas. Cabe resaltar que el escalado se realiza en este software también.
+      h3(data-aos="fade-right") Características del #[i software ] #[i OptiTex]
+    p.mb-5(data-aos="fade-right") #[i OptiTex] permite construir de manera dinámica patrones con alta precisión, para ello, emplea una ubicación espacial basados en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, partiendo de figuras geométricas o líneas dibujadas. Cabe resaltar que el escalado se realiza en este #[i software ] también.
     p.mb-5(data-aos="fade-right") Su interfaz es muy intuitiva, generando que el mismo programa le indique el paso a seguir en cada herramienta que se vaya a implementar, escala y modifica patrones ya creados.
 
     .row.bg-10.py-5.mb-5
@@ -53,12 +53,12 @@
         figure.mb-4
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 15.
-            span Interfaz general de OptiTex PDS
-          img(src='@/assets/curso/tema2/img02.png' alt="Figura 15. Interfaz general de OptiTex PDS")
+            span Interfaz general de #[i OptiTex] #[i PDS ]
+          img(src='@/assets/curso/tema2/img02.png' alt="Figura 15. Interfaz general de OptiTex #[i PDS ]")
           figcaption Fuente: SENA 2021
       .col-lg-1
     
-    p.mb-5 <b>Dentro de las características generales de PDS se encuentran:</b>
+    p.mb-5 <b>Dentro de las características generales de #[i PDS ] se encuentran:</b>
 
     .row.mb-5
       .col-lg-6
@@ -74,7 +74,7 @@
           li
             .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
               span c
-            p.mb-0(data-aos="fade-left") Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permite el complemento con los demás paquetes de software.
+            p.mb-0(data-aos="fade-left") Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permite el complemento con los demás paquetes de #[i software ].
           li
             .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
               span d
@@ -108,7 +108,7 @@
           li
             .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
               span k
-            p.mb-0(data-aos="fade-left") El programa que complementa a OptiTex PDS es Marker, en donde una vez se realice el trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, es posible pasar a hacer el plano que guie el tendido y corte de la producción a confeccionar.
+            p.mb-0(data-aos="fade-left") El programa que complementa a #[i OptiTex] #[i PDS ] es #[i Marker ], en donde una vez se realice el trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, es posible pasar a hacer el plano que guie el tendido y corte de la producción a confeccionar.
           li
             .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
               span l
@@ -118,7 +118,7 @@
               span m
             p.mb-0(data-aos="fade-left") Reporte de información de piezas a Excel para integración con cualquier generador de reportes a su gusto.
 
-    p.mb-5(data-aos="fade-right") En complemento con lo anterior, dentro de las características generales de Marker encontramos:
+    p.mb-5(data-aos="fade-right") En complemento con lo anterior, dentro de las características generales de #[i Marker ] encontramos:
     
     
    
@@ -129,8 +129,8 @@
           figure.mb-4
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 16.
-              span Interfaz Marker
-            img(src='@/assets/curso/tema2/img03.png' alt="Figura 16. Interfaz general de OptiTex PDS")
+              span Interfaz #[i Marker ]
+            img(src='@/assets/curso/tema2/img03.png' alt="Figura 16. Interfaz general de OptiTex #[i PDS ]")
             figcaption Fuente: SENA 2021
         .col-lg-1
     
@@ -208,8 +208,8 @@
             .col-sm-2.col-lg-1.d-none.d-lg-block
               img(src="@/assets/curso/tema2/img19.svg")
             .col.mb-sm-0
-              p #[b Trazado de patrones MARKER ] 
-                span.mb-0 A continuación, le invitamos a visualizar el video de “Herramientas digitales moda”, en donde se explica y profundiza la funcionalidad de Marker.
+              p #[b Trazado de patrones #[i MARKER ] ] 
+                span.mb-0 A continuación, le invitamos a visualizar el video de “Herramientas digitales moda”, en donde se explica y profundiza la funcionalidad de #[i Marker ].
             .col-sm-auto
               a.boton.color-acento-contenido.text-white(href="https://www.youtube.com/watch?v=fscxWYsenLE" target="_blank")
                 span Descargar
@@ -221,10 +221,10 @@
     Separador
 
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1  Funciones básicas de PDS
+      h2 2.1  Funciones básicas de #[i PDS ]
 
     p.mb-4(data-aos="fade-right") El programa cuenta con una serie de pestañas integradas de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista.
-    p.mb-5(data-aos="fade-right") Para el manejo e implementación del software de patronaje, es necesario tener conocimientos de patronaje y escalado, asociados a la elaboración de básicos.
+    p.mb-5(data-aos="fade-right") Para el manejo e implementación del #[i software ] de patronaje, es necesario tener conocimientos de patronaje y escalado, asociados a la elaboración de básicos.
     
     .row.fondo-a.py-5.mb-5
       .col-lg-1
@@ -234,8 +234,8 @@
             figure
               .titulo-sexto.color-acento-contenido(data-aos='fade-right')
                 h5 Figura 17.
-                span Divisiones en la interfaz PDS
-              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz PDS")
+                span Divisiones en la interfaz #[i PDS ]
+              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz #[i PDS ]")
               figcaption Fuente: SENA 2021
 
           .tarjeta.tarjeta--gris.p-3(x="13%" y="16%")
@@ -356,8 +356,8 @@
           figure
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 23.
-              span Divisiones en la interfaz PDS
-            img(src='@/assets/curso/tema2/img10.png' alt="Figura 23. Divisiones en la interfaz PDS")
+              span Divisiones en la interfaz #[i PDS ]
+            img(src='@/assets/curso/tema2/img10.png' alt="Figura 23. Divisiones en la interfaz #[i PDS ]")
             figcaption Fuente: SENA 2021            
               
       .row(titulo="D. Menú principal")
@@ -387,15 +387,15 @@
 
           p.mb-4 <b>Organizar para plotear área de trabajo:</b> se utiliza para acomodar los moldes en el área de trabajo y ser impresos desde allí.
 
-          p.mb-4 <b>Reporte a Excel:</b> se puede crear con la información de las piezas, cantidad por molde, especificaciones en la marcación para acceder a los archivos fuera del software fuente.
+          p.mb-4 <b>Reporte a Excel:</b> se puede crear con la información de las piezas, cantidad por molde, especificaciones en la marcación para acceder a los archivos fuera del #[i software ] fuente.
 
           p.mb-4 <b>Digitalizar:</b> permite pasar un patrón físico (en papel) a una versión computarizada o digital.
 
-          p.mb-4 <b>Acercar, deshacer, rehacer, cortar, copiar, pegar:</b> herramientas que facilitan el trabajo con el software.
+          p.mb-4 <b>Acercar, deshacer, rehacer, cortar, copiar, pegar:</b> herramientas que facilitan el trabajo con el #[i software ].
 
           p.mb-4 <b>Reemplazar original:</b> se interactúa con las piezas en el área de trabajo y en la ventana de piezas transfiriendo elementos de un archivo a otro.
 
-          p.mb-5 <b>Ayuda en línea:</b> permite recibir asistencia del área de soporte del proveedor del software.
+          p.mb-5 <b>Ayuda en línea:</b> permite recibir asistencia del área de soporte del proveedor del #[i software ].
       
           figure.mb-4
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -416,21 +416,21 @@
     Separador 
 
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2  Patronaje en OptiTex de prendas inferiores y superiores
+      h2 2.2  Patronaje en #[i OptiTex] de prendas inferiores y superiores
 
-    p.mb-5 Para patronar en el software OptiTex, lo más común es partir de un rectángulo, conformado con la medida más ancha y la medida más larga por utilizar. Por ejemplo, en una falda utilizamos para el ancho del rectángulo el contorno más grande que sería la cadera y para el alto, ubicamos el largo de la falda. Esta acción se realiza con los siguientes pasos: Menú barra Pieza / Nueva Pieza / Crear rectángulo.
+    p.mb-5 Para patronar en el #[i software ] #[i OptiTex], lo más común es partir de un rectángulo, conformado con la medida más ancha y la medida más larga por utilizar. Por ejemplo, en una falda utilizamos para el ancho del rectángulo el contorno más grande que sería la cadera y para el alto, ubicamos el largo de la falda. Esta acción se realiza con los siguientes pasos: Menú barra Pieza / Nueva Pieza / Crear rectángulo.
     
     .row.mb-5
       .col-sm-12.col-lg-10.m-auto.bg-6.p-5
         figure.mb-4
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          .titulo-sexto.color-acento-contenido
             h5 Figura 27.
             span Creación de rectángulo
           img(src='@/assets/curso/tema2/img14.png' alt="Figura 27. Creación de rectángulo")
           figcaption Fuente: SENA 2021
       
 
-    p.mb-5(data-aos="fade-right") Para observar cómo funciona el programa en práctica, se recomienda ver los siguientes videos sobre creación de prendas en el software de PDS:
+    p.mb-5(data-aos="fade-right") Para observar cómo funciona el programa en práctica, se recomienda ver los siguientes videos sobre creación de prendas en el #[i software ] de #[i PDS ]:
     
     .bg-11.fullview.p-5
       .row.mb-4
@@ -514,7 +514,7 @@
     Separador 
 
     #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3 Escalado de patrones en Marker OptiTex
+      h2 2.3 Escalado de patrones en #[i Marker  OptiTex]
     .bg-img-2.fullview
       .row.mb-5
         .col-sm-12.col-lg-7.p-5
@@ -523,8 +523,8 @@
               span Escalado
           div.fondo-blanco.d-flex.align-items-center.p-5
             div
-              p.mb-5 El escalado en Marker también se trabaja con plano cartesiano en coordenadas X, Y; en este caso se encuentra con una variación que se presenta como dy, dx. Y si el movimiento es para -X o -Y se debe escribir el número con el signo menos (-) adelante. 
-              p A nivel general, el escalado digital o a través de un software de patronaje, se trabaja de la misma manera o con el mismo análisis que se hace de forma manual; en esta ocasión, únicamente se va a trabajar la programación, interfaz y herramientas del programa para hacer cualquier tipo de escalado, se tomará como referente únicamente la base de falda, sin embargo, estos mismos pasos y esta configuración se debe realizar para cualquier tipo de base, prenda, trazo, molde o interpretación.
+              p.mb-5 El escalado en #[i Marker ] también se trabaja con plano cartesiano en coordenadas X, Y; en este caso se encuentra con una variación que se presenta como dy, dx. Y si el movimiento es para -X o -Y se debe escribir el número con el signo menos (-) adelante. 
+              p A nivel general, el escalado digital o a través de un #[i software ] de patronaje, se trabaja de la misma manera o con el mismo análisis que se hace de forma manual; en esta ocasión, únicamente se va a trabajar la programación, interfaz y herramientas del programa para hacer cualquier tipo de escalado, se tomará como referente únicamente la base de falda, sin embargo, estos mismos pasos y esta configuración se debe realizar para cualquier tipo de base, prenda, trazo, molde o interpretación.
     
         .col-sm-12.col-lg-5.d-flex.p-5.mt-3
           figure.mb-4.mt-5
@@ -573,7 +573,7 @@
                     p Para ampliar la información le recomendamos revisar los recursos que se presentan a continuación, en los que podrá conocer el paso a paso para la realización de este proceso.
                 .col-sm-auto
                   a.boton.color-acento-contenido.text-white(:href="obtenerLink('/downloads/CF4_Anexo_pasos_para_escalar_en_Optitex.pdf')" target="_blank")
-                    span <b>Anexo.</b> Pasos para escalar en OptiTex
+                    span <b>Anexo.</b> Pasos para escalar en #[i OptiTex]
                     i.fas.fa-file-download
 
     .row

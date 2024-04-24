@@ -8,9 +8,9 @@
         span.text-white 1
       h1 Audaces 360
 
-    .row.mb-5.bloque-cus-1
+    .row.bloque-cus-1
       .col-sm-12.col-lg-7.p-5
-          p.text-white Como ya se ha mencionado, dentro del sector productivo de la moda hay diferentes softwares, que permiten optimización de todos los recursos que comprende una empresa dentro de los departamentos de producción, uno de ellos es el dedicado a la generación de modelos o diseños, integrado generalmente por:
+          p.text-white En el sector productivo de la moda, se emplean diversos #[i softwares]  para optimizar los recursos de las empresas en los departamentos de producción, uno de estos programas se centra en la generación de modelos o diseños y típicamente involucra a:
           ul.ms-5.lista-ul.text-white
             li 
               i.lista-ul__vineta
@@ -27,18 +27,18 @@
             li 
               i.lista-ul__vineta
               | Trazadores
-          p.text-white.mb-0 Estos oficios deben desarrollarse con tal agilidad que permita la producción masiva de las prendas de vestir dentro de una fábrica, y para responder a ellos, varias empresas han logrado el desarrollo de software permitiendo generar mayor rendimiento, este es el caso por ejemplo de Audaces 360, que ofrece un paquete completo para suplir este tipo de necesidades.
+          p.text-white.mb-0 Estas funciones deben llevarse a cabo con rapidez para permitir la producción masiva de prendas dentro de una fábrica. En respuesta a esta necesidad, varias empresas han desarrollado software específico para aumentar el rendimiento. Por ejemplo, Audaces 360 ofrece un paquete completo para abordar estas demandas.
       .col-sm-12.col-lg-4
         figure
           img.img-cus-1.d-none.d-lg-block(src='@/assets/curso/tema1/img01.svg' alt="Figura.")
       
 
    
-    .bg-1.fullview  
+    .bg-1.fullview.mt-5 
       .py-5.mt-5
         .row.px-5       
             .col-lg-12
-              p Audaces 360 es un conjunto de softwares que integra las etapas creativa y productiva, para desarrollar la planeación de una empresa o fábrica dentro de sus diferentes líneas, estos softwares son:
+              p Audaces 360 es un conjunto de #[i softwares] que integra las etapas creativa y productiva, para desarrollar la planeación de una empresa o fábrica dentro de sus diferentes líneas, estos #[i softwares]  son:
             
         .row.px-5       
           .col-sm-12.col-lg-4
@@ -74,13 +74,13 @@
                   p.mb-0 #[b Audaces Supera:] servidor velos de tizadas.
       
 
-    p.my-5(data-aos="fade-right") Como se puede observar, esta línea de software suple cada una de las áreas dentro de los departamentos productivos, integrados en el departamento de la generación de modelos de prendas de vestir; a continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir.
-
+    p.my-5(data-aos="fade-right") Como se puede observar, esta línea de #[i softwares] suple cada una de las áreas dentro de los departamentos productivos integrados en el departamento de la generación de modelos de prendas de vestir, a continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
     .titulo-segundo.color-acento-contenido
       h3(data-aos="fade-right") Características Audaces Patrones
     .bg-2.fullview  
       .row.py-5.mb-5.w-mob
         .col-sm-12.col-lg-10.py-3.m-auto
+          p.mb-5 Se describe en la imagen la herramienta audaces, en donde se deben dar las instrucciones correctas para poder obtener los patrones requeridos.
           figure.mb-4
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 1.
@@ -96,8 +96,8 @@
           img.d-none.d-lg-block(src='@/assets/curso/tema1/img17.svg' data-aos="fade-left" alt="Figura.")
 
         .col-sm-12.col-lg-8
-              p.mb-3 Audaces Patrones permite construir de manera dinámica patrones con alta precisión, para ello, emplea una ubicación espacial basada en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, adicionalmente, permite construir patrones con nivel avanzado como ecualizaciones y amplitudes, entre otros. 
-              p Su interfaz es muy intuitiva, pues está diseñado para que el programa en sí mismo, le indique al usuario el paso a seguir en cada herramienta que se vaya a implementar, este software escala y modifica patrones ya creados.
+              p.mb-3 Audaces Patrones permite construir de manera dinámica patrones con alta precisión para ello emplea una ubicación espacial basada en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, adicionalmente permite construir patrones con nivel avanzado como ecualizaciones y amplitudes, entre otros.
+              p La interfaz de este #[i software ] es altamente intuitiva, ya que está diseñada para guiar al usuario en cada paso del proceso de implementación de herramientas. Además, este programa tiene la capacidad de escalar y modificar patrones ya existentes. 
         .col-lg-1
             
       
@@ -121,7 +121,7 @@
           li 
             .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
               span d
-            p.mb-0(data-aos="fade-left") Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permiten el complemento con los demás paquetes de softwares.
+            p.mb-0(data-aos="fade-left") Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permiten el complemento con los demás paquetes de #[i softwares].
           li 
             .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
               span e
@@ -282,7 +282,7 @@
     .row.mb-5
       .col-sm-12.col-lg-6(data-aos="fade-right")
         .bg-6.p-5
-          p.mb-5 Para observar cómo se patrona en el software Audaces patrones, es importante reconocer cómo se ve un patrón.
+          p.mb-5 Consultar cómo se patrona en el software Audaces patrones es importante reconocer como se ve un patrón.
           figure
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 11.
@@ -299,7 +299,7 @@
             img(src='@/assets/curso/tema1/img14.png' alt="Figura 12. Patrón Audaces escalado con costuras")
             figcaption Fuente: SENA 2021
 
-    p.mb-5(data-aos="fade-right") Para observar cómo funciona el programa, ya entrado en práctica, se invita al aprendiz a visualizar el siguiente video sobre la creación de una prenda inferior en el software de Audaces Patrones.
+    p.mb-5(data-aos="fade-right") Se invita a consultar el siguiente video sobre la creación de una prenda de vestir inferior a modo de practica, en el Software de Audaces Patrones.
     
     .row.mb-5
       .col-lg-1
@@ -352,8 +352,8 @@
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5(data-aos="fade-right") En la figura anterior, se observa que una vez se pincha en tabla, dentro de la pestaña de escalado, se abre una ventana en la que en cada casilla se asignan los valores a escalar, también se observan otros botones en la parte inferior, que sirven para agilizar este proceso; para comprender más sobre el escalado, se invita a visualizar el siguiente video: 
-    
+    p.mb-5(data-aos="fade-right") En la figura anterior, al seleccionar una tabla y acceder a la pestaña de escalado, se despliega una ventana donde se encuentran casillas para asignar los valores a escalar. Además, en la parte inferior se encuentran otros botones diseñados para facilitar este procedimiento. Para obtener una comprensión más profunda sobre el escalado, se recomienda revisar el video adjunto. 
+
     .row.mb-5
       .col-lg-1
       .col-lg-10(data-aos="fade-left")
