@@ -9,7 +9,7 @@
       h1 Audaces 360
 
     .row.bloque-cus-1
-      .col-sm-12.col-lg-7.p-5
+      .col-sm-12.col-lg-7.p-5(data-aos="zoom-in-left")
           p.text-white En el sector productivo de la moda, se emplean diversos #[i softwares]  para optimizar los recursos de las empresas en los departamentos de producción, uno de estos programas se centra en la generación de modelos o diseños y típicamente involucra a:
           ul.ms-5.lista-ul.text-white
             li 
@@ -27,14 +27,14 @@
             li 
               i.lista-ul__vineta
               | Trazadores
-          p.text-white.mb-0 Estas funciones deben llevarse a cabo con rapidez para permitir la producción masiva de prendas dentro de una fábrica. En respuesta a esta necesidad, varias empresas han desarrollado software específico para aumentar el rendimiento. Por ejemplo, Audaces 360 ofrece un paquete completo para abordar estas demandas.
+          p.text-white.mb-0 Estas funciones deben llevarse a cabo con rapidez para permitir la producción masiva de prendas dentro de una fábrica. En respuesta a esta necesidad, varias empresas han desarrollado  #[i software ] específico para aumentar el rendimiento. Por ejemplo, Audaces 360 ofrece un paquete completo para abordar estas demandas.
       .col-sm-12.col-lg-4
         figure
-          img.img-cus-1.d-none.d-lg-block(src='@/assets/curso/tema1/img01.svg' alt="Figura.")
+          img.img-cus-1.d-none.d-lg-block(src='@/assets/curso/tema1/img01.svg' )
       
 
    
-    .bg-1.fullview.mt-5 
+    .bg-1.fullview.mt-5(data-aos="zoom-in-left")
       .py-5.mt-5
         .row.px-5       
             .col-lg-12
@@ -43,7 +43,7 @@
         .row.px-5       
           .col-sm-12.col-lg-4
             figure.mb-4
-              img(src='@/assets/curso/tema1/img02.svg' alt="Figura.")
+              img(src='@/assets/curso/tema1/img02.svg' )
 
           .col-sm-12.col-lg-4
             LineaTiempoE.color-acento-contenido
@@ -74,96 +74,96 @@
                   p.mb-0 #[b Audaces Supera:] servidor velos de tizadas.
       
 
-    p.my-5(data-aos="fade-right") Como se puede observar, esta línea de #[i softwares] suple cada una de las áreas dentro de los departamentos productivos integrados en el departamento de la generación de modelos de prendas de vestir, a continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
-    .titulo-segundo.color-acento-contenido
-      h3(data-aos="fade-right") Características Audaces Patrones
-    .bg-2.fullview  
-      .row.py-5.mb-5.w-mob
-        .col-sm-12.col-lg-10.py-3.m-auto
-          p.mb-5 Se describe en la imagen la herramienta audaces, en donde se deben dar las instrucciones correctas para poder obtener los patrones requeridos.
-          figure.mb-4
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 1.
-              span Interfaz general de Audaces Patrones
-            img(src='@/assets/curso/tema1/img03.png' data-aos="fade-left" alt="Figura 1. Interfaz general de Audaces Patrones")
-            figcaption Fuente: SENA 2021
-        
-
-    .bg-3.fullview  
+    p.my-5(data-aos="zoom-in-left") Como se puede evidenciar, esta línea de #[i softwares] suple cada una de las áreas dentro de los departamentos productivos integrados en el departamento de la generación de modelos de prendas de vestir, a continuación, se describirán las características generales del  #[i software ] enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
+    .titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h3 Características Audaces Patrones
+    .bg-3.fullview(data-aos="zoom-in-left") 
       .row.py-5.mb-5.align-items-center
         .col-lg-1
         .col-sm-12.col-lg-1.align-items-center
-          img.d-none.d-lg-block(src='@/assets/curso/tema1/img17.svg' data-aos="fade-left" alt="Figura.")
+          img.d-none.d-lg-block(src='@/assets/curso/tema1/img17.svg'  )
 
         .col-sm-12.col-lg-8
               p.mb-3 Audaces Patrones permite construir de manera dinámica patrones con alta precisión para ello emplea una ubicación espacial basada en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, adicionalmente permite construir patrones con nivel avanzado como ecualizaciones y amplitudes, entre otros.
-              p La interfaz de este #[i software ] es altamente intuitiva, ya que está diseñada para guiar al usuario en cada paso del proceso de implementación de herramientas. Además, este programa tiene la capacidad de escalar y modificar patrones ya existentes. 
+              p La interfaz de este   #[i software ] es altamente intuitiva, ya que está diseñada para guiar al usuario en cada paso del proceso de implementación de herramientas. Además, este programa tiene la capacidad de escalar y modificar patrones ya existentes. 
         .col-lg-1
+    .bg-2.fullview(data-aos="zoom-in-left")  
+      .row.py-5.mb-5.w-mob
+        .col-sm-12.col-lg-10.py-3.m-auto
+          figure.mb-4
+            .titulo-sexto.color-acento-contenido 
+              h5 Figura 1.
+              span Interfaz general de Audaces Patrones
+            img(src='@/assets/curso/tema1/img03.png'  alt="Se describe en la imagen la herramienta audaces, en donde se deben dar las instrucciones correctas para poder obtener los patrones requeridos.")
+            figcaption Fuente: SENA 2021
+        
+
+    
             
       
-    p.mb-5(data-aos="fade-right") <b>Dentro de sus características generales:</b>
+    p.mb-5(data-aos="zoom-in-left") <b>Dentro de sus características generales:</b>
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
         ol.lista-ol--cuadro.lista-ol--separador
           li
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span a
-            p.mb-0(data-aos="fade-left") No requiere de programación especial para disponer los patrones para la tizada (trazo).          
+            p.mb-0  No requiere de programación especial para disponer los patrones para la tizada (trazo).          
           li
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span b
-            p.mb-0(data-aos="fade-left") Se pueden copiar moldes o patrones de un archivo a otro sin necesidad de generar un nuevo archivo.
+            p.mb-0  Se pueden copiar moldes o patrones de un archivo a otro sin necesidad de generar un nuevo archivo.
           li
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span c
-            p.mb-0(data-aos="fade-left") Cuenta con funciones de guardado en versiones anteriores y se pueden abrir sin ningún inconveniente.
+            p.mb-0  Cuenta con funciones de guardado en versiones anteriores y se pueden abrir sin ningún inconveniente.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span d
-            p.mb-0(data-aos="fade-left") Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permiten el complemento con los demás paquetes de #[i softwares].
+            p.mb-0  Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permiten el complemento con los demás paquetes de #[i softwares].
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span e
-            p.mb-0(data-aos="fade-left") Interfaz intuitiva y muy fácil de manejar.
+            p.mb-0  Interfaz intuitiva y muy fácil de manejar.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span f
-            p.mb-0(data-aos="fade-left") Se pueden imprimir moldes o patrones directamente a una impresora a la escala que se desee. 
+            p.mb-0  Se pueden imprimir moldes o patrones directamente a una impresora a la escala que se desee. 
       .col-sm-12.col-lg-6
         ol.lista-ol--cuadro.lista-ol--separador
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span g
-            p.mb-0(data-aos="fade-left") No hay límite de espacio, es demasiado amplio para poder integrar en un mismo archivo muchos patrones. 
+            p.mb-0  No hay límite de espacio, es demasiado amplio para poder integrar en un mismo archivo muchos patrones. 
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span h
-            p.mb-0(data-aos="fade-left") Permite la marcación de cada uno de los nombres de los patrones, descripciones o acotaciones especiales que se necesiten para el ploteo de los moldes.
+            p.mb-0  Permite la marcación de cada uno de los nombres de los patrones, descripciones o acotaciones especiales que se necesiten para el ploteo de los moldes.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span i
-            p.mb-0(data-aos="fade-left") Cuenta con herramientas de texto.
+            p.mb-0  Cuenta con herramientas de texto.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span j
-            p.mb-0(data-aos="fade-left") Cuenta con sistema de contraseñas para archivos determinados, favoreciendo la confidencialidad. Esto sucede dado que en varias empresas manejan básicos estrella, en los que no todo el personal está autorizado a entrar y trabajar sobre ellos, solo aquel personal autorizado por la empresa. 
+            p.mb-0  Cuenta con sistema de contraseñas para archivos determinados, favoreciendo la confidencialidad. Esto sucede dado que en varias empresas manejan básicos estrella, en los que no todo el personal está autorizado a entrar y trabajar sobre ellos, solo aquel personal autorizado por la empresa. 
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones(data-aos="fade-right")
+            .lista-ol--cuadro__vineta.color-acento-botones 
               span k
-            p.mb-0(data-aos="fade-left") <b>El programa que complementa a Audaces Patrones es Audaces Tizada</b>, en donde una vez se terminan de desarrollar el respectivo patronaje y escalado, se pasa al trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, lo cual posteriormente pasará a ser el plano que guie el tendido y corte de la producción a confeccionar.
-    .bg-4.fullview  
+            p.mb-0  <b>El programa que complementa a Audaces Patrones es Audaces Tizada</b>, en donde una vez se terminan de desarrollar el respectivo patronaje y escalado, se pasa al trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, lo cual posteriormente pasará a ser el plano que guie el tendido y corte de la producción a confeccionar.
+    .bg-4.fullview(data-aos="zoom-in-left")  
       .row.py-5.mb-5
         .col-lg-1
         .col-lg-10.py-3
           figure.mb-4
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            .titulo-sexto.color-acento-contenido 
               h5 Figura 2.
               span Interfaz Audaces Tizada
-            img(src='@/assets/curso/tema1/img04.png' data-aos="fade-left" alt="Figura 2. Interfaz Audaces Tizada")
+            img(src='@/assets/curso/tema1/img04.png' alt="Figura 2. Interfaz Audaces Tizada")
             figcaption Fuente: SENA 2021
         .col-lg-1
-    .tarjeta.color-secundario.p-4.mb-5
+    .tarjeta.color-secundario.p-4.mb-5(data-aos="zoom-in-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
           img(src="@/assets/curso/tema1/img18.svg")
@@ -171,7 +171,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p #[b Audaces Tizada ] 
-                span A continuación, le invitamos a visualizar el video de “Herramientas digitales moda”, en donde se podrá apreciar el paso a paso para la elaboración de un patrón en el Software.
+                span A continuación, le invitamos a consultar el video de “Herramientas digitales moda”, en donde se podrá apreciar el paso a paso para la elaboración de un patrón en el  #[i Software ].
             .col-sm-auto
               a.boton.color-acento-contenido.text-white(href="https://www.youtube.com/watch?v=C0O6derJC2s" target="_blank")
                 span Descargar
@@ -181,62 +181,110 @@
 
     Separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.1  Funciones básicas
 
-    p.mb-4(data-aos="fade-right") Este programa cuenta con una serie de pestañas que tiene integrado de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista; a continuación, se muestran cada una de las pestañas:
+    p.mb-4(data-aos="zoom-in-left") Este programa cuenta con una serie de pestañas que tiene integrado de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista; a continuación, se muestran cada una de las pestañas:
 
     .bg-5.fullview
-      .row.py-5.mb-5       
+      .row.py-5.mb-5(data-aos="zoom-in-left")       
         .col-sm-12.col-lg-10.m-auto
           SlyderA(tipo="b").color-acento-contenido
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 A. Herramientas de inicio
                 p Contiene la configuración del color de la línea, ancho de líneas, opciones para copiar, pegar, borrar, seleccionar y restaurar los cambios. 
-                img(src='@/assets/curso/tema1/img05.png', alt='A. Herramientas de inicio')
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 3.
+                    span Pestaña de Inicio.
+                  img(src='@/assets/curso/tema1/img05.png', alt='A. Herramientas de inicio')
+                  figcaption Fuente: SENA 2021
+
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 B. Herramientas de construcción
                 p Contiene opciones para realizar rectas, rectángulos, cuadrados, prolongación de rectas y las relacionadas a ángulos, curvas, editor de curvas, configuración de puntos, puntos por coordenadas y circunferencias por aplicación de fórmula y ángulos, están basadas en operaciones básicas de geometría y finaliza con textos.  De aquí parte toda la construcción inicial de un básico de patrón.
-                img(src='@/assets/curso/tema1/img06.png', alt='B. Herramientas de construcción ')
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 4.
+                    span Pestaña de construcción.
+                  img(src='@/assets/curso/tema1/img06.png', alt='B. Herramientas de construcción ')
+                  figcaption Fuente: SENA 2021
+
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 C. Herramientas de producción
-                p Contiene las opciones para crear patrones, una vez se han construido los planos, estos deben crearse. También contiene la opción de digitalización de moldes, logrado a partir de mesa digitalizadora (por ejemplo), que consiste en ubicar moldes reales en la mesa y esta los pasa al software, así como las opciones de costura, dobladillos, doblar, desdoblar, pliegues, pinzas, cortar moldes, unir moldes o cortar y unir.
-                img(src='@/assets/curso/tema1/img07.png', alt='C. Herramientas de producción')
+                p Este conjunto de herramientas abarca las opciones necesarias para la creación de patrones una vez que los planos han sido construidos. Además, incluye la funcionalidad de digitalización de moldes, la cual se logra a través de una mesa digitalizadora, por ejemplo. Esta característica permite colocar moldes reales en la mesa, los cuales son transferidos al #[i software], proporcionando opciones relacionadas con la costura, los dobladillos, el doblado y desdoblado de piezas, la creación de pliegues, pinzas, así como la capacidad de cortar moldes, unir moldes o realizar cortes y uniones en ellos.
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 5.
+                    span Pestaña de producción
+                  img(src='@/assets/curso/tema1/img07.png', alt='C. Herramientas de producción')
+                  figcaption Fuente: SENA 2021
+
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 D. Herramientas de marcaciones
-                p Contiene las opciones de marcaciones por piquetes, así como la redistribución y borrar los mismos, alineación, sustitución y modificación de piquetes, también contiene la opción de introducir o borrar elementos, útil cuando se debe marcar una línea de corte dentro de un patrón, como en las mangas largas con abertura para sesgo. 
-                img(src='@/assets/curso/tema1/img08.png', alt='D. Herramientas de marcaciones')
+                p En esta sección se encuentran las opciones destinadas a las marcaciones por piquetes, así como la redistribución y eliminación de los mismos. También incluye funciones para la alineación, sustitución y modificación de piquetes, además, proporciona la opción de introducir o eliminar elementos, especialmente útil cuando se requiere marcar una línea de corte dentro de un patrón, como en el caso de las mangas largas con abertura para sesgo.
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 6.
+                    span Pestaña de marcaciones
+                  img(src='@/assets/curso/tema1/img08.png', alt='D. Herramientas de marcaciones')
+                  figcaption Fuente: SENA 2021
+
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 E. Herramientas de escalado
                 p Contiene las opciones para escalar los patrones, herramienta sumamente importante, una vez se tengan los patrones debidamente marcados y con asignación de tallas, se procede a escalar implementando los datos numéricos para incrementar o reducir un patrón, es de aclarar que el escalador y patronista deben tener muy claro dichos valores y metodología a implementar en el patrón.
-                img(src='@/assets/curso/tema1/img09.png', alt='E. Herramientas de escalado')
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 7.
+                    span Pestaña de escalado
+                  img(src='@/assets/curso/tema1/img09.png', alt='E. Herramientas de escalado')
+                  figcaption Fuente: SENA 2021
+
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 F. Herramientas de manipulación
                 p Contiene las opciones de modificación de puntos dentro de los patrones, reflejo, paralelas, divisiones de segmentos, rotaciones, giros, proporciones, así como transformar rectas a curvas de un patrón, introducir y borrar puntos de control (indispensables para escalado), alineación y transformación de líneas. 
-                img(src='@/assets/curso/tema1/img10.png', alt='F. Herramientas de manipulación')
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 8.
+                    span Pestaña de manipulación
+                  img(src='@/assets/curso/tema1/img10.png', alt='F. Herramientas de manipulación')
+                  figcaption Fuente: SENA 2021
+
             .row.mb-5
               .col-sm-12.col-lg-12
                 h4 G. Herramientas de conferencia
-                p Contiene opciones de comparar medidas entre patrones, medición (cotas) de perímetros, distancias, ángulos, radios y otros complementos que permite comparar perímetros y hallar medidas por elementos en coordenadas. 
-                img(src='@/assets/curso/tema1/img11.png', alt='G. Herramientas de conferencia')
-            .row.mb-5
+                p Esta categoría engloba las opciones diseñadas para comparar medidas entre patrones, así como para realizar mediciones (cotas) de perímetros, distancias, ángulos, radios y otros elementos. Además, ofrece complementos que permiten comparar perímetros y encontrar medidas por elementos en coordenadas.
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 9.
+                    span Pestaña de conferencia
+                  img(src='@/assets/curso/tema1/img11.png', alt='G. Herramientas de conferencia')
+                  figcaption Fuente: SENA 2021
+
+            .row
               .col-sm-12.col-lg-12
                 h4 H. Herramientas de modelo
-                p Se considera modelo a los patrones desarrollados en un mismo archivo con las mismas características en cuanto a numeración de tallas y propiedades de los patrones, en este apartado se pueden observar las propiedades generales, información, autor, telas, variantes, relación de piquetes, imágenes o también se pueden buscar modelos. 
-                img(src='@/assets/curso/tema1/img12.png', alt='H. Herramientas de modelo')
+                p Se considera modelo a los patrones desarrollados en un mismo archivo con las mismas características en cuanto a numeración de tallas y propiedades de los patrones, en este apartado se pueden evidenciar las propiedades generales, información, autor, telas, variantes, relación de piquetes, imágenes o también se pueden buscar modelos. 
+                figure.mb-0
+                  .titulo-sexto.color-acento-contenido
+                    h5 Figura 10.
+                    span Pestaña de modelo
+                  img(src='@/assets/curso/tema1/img12.png', alt='H. Herramientas de modelo')
+                  figcaption Fuente: SENA 2021
+
             
 
-    p(data-aos="fade-right") Para profundizar en la comprensión del funcionamiento de las herramientas básicas del programa, se invita a visualizar los siguientes videos:
+    p(data-aos="zoom-in-left") Para profundizar en la comprensión del funcionamiento de las herramientas básicas del programa, se invita a consultar los siguientes videos:
 
-    .row.mb-5.bloque-cus-2.align-items-center.py-3
+    .row.mb-5.bloque-cus-2.align-items-center.py-3(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
-        img.d-none.d-lg-block(src='@/assets/curso/tema1/img19.svg' alt="Figura.")
+        img.d-none.d-lg-block(src='@/assets/curso/tema1/img19.svg' )
       .col-sm-12.col-lg-8.align-items-center
         .row.mb-4.align-items-center
           .col-lg-1
@@ -244,14 +292,14 @@
             p.mb-4 <b> 1. Interfaz de Audaces</b>
             a.anexo(href="https://www.youtube.com/watch?v=lSZta00zN0A" target="_blank")
               .anexo__icono
-                img(src="@/assets/componentes/icono-link.svg" alt="Figura.")
+                img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
                 p <b>Enlace web.</b> Interfaz de Audaces
           .col-lg-5
             p.mb-4 <b>3. Elemento vs Patrón</b>
             a.anexo(href="https://www.youtube.com/watch?v=2TVCOrR_ECA" target="_blank")
                 .anexo__icono
-                  img(src="@/assets/componentes/icono-link.svg" alt="Figura.")
+                  img(src="@/assets/componentes/icono-link.svg" )
                 .anexo__texto
                   p <b>Enlace web.</b> Elemento vs Patrón    
           .col-lg-1
@@ -261,14 +309,14 @@
             p.mb-4 <b> 2. Elementos básicos de Audaces</b>
             a.anexo(href="https://www.youtube.com/watch?v=X4KJlTEPamA" target="_blank")
               .anexo__icono
-                img(src="@/assets/componentes/icono-link.svg" alt="Figura.")
+                img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
                 p <b>Enlace web.</b> Elementos básicos de Audaces  
           .col-lg-5
             p.mb-4 <b>4. Snap clásico automático</b>
             a.anexo(href="https://www.youtube.com/watch?v=UMZiH0aZQNo" target="_blank")
               .anexo__icono
-                img(src="@/assets/componentes/icono-link.svg" alt="Figura.")
+                img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
                 p <b>Enlace web.</b> Snap clásico automático
           .col-lg-1
@@ -276,45 +324,45 @@
 
     Separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.2 Patronaje en Audaces de prendas inferiores y superiores
 
-    .row.mb-5
-      .col-sm-12.col-lg-6(data-aos="fade-right")
+    .row.mb-5(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-6 
         .bg-6.p-5
-          p.mb-5 Consultar cómo se patrona en el software Audaces patrones es importante reconocer como se ve un patrón.
+          p.mb-5 Para identificar cómo se patrona en el  #[i software ] Audaces patrones es importante reconocer como se ve un patrón.
           figure
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            .titulo-sexto.color-acento-contenido 
               h5 Figura 11.
               span Patrón audaces
             img(src='@/assets/curso/tema1/img13.png' alt="Figura 11. Patrón audaces")
             figcaption Fuente: SENA 2021
-      .col-sm-12.col-lg-6(data-aos="fade-left")
+      .col-sm-12.col-lg-6 
         div.bg-7.p-5
-          p.mb-5(style="height:8%") A continuación, se observa un patrón escalado con costuras.
+          p.mb-5(style="height:8%") A continuación, se evidencia un patrón escalado con costuras.
           figure
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            .titulo-sexto.color-acento-contenido 
               h5 Figura 12.
               span Patrón Audaces escalado con costuras
             img(src='@/assets/curso/tema1/img14.png' alt="Figura 12. Patrón Audaces escalado con costuras")
             figcaption Fuente: SENA 2021
 
-    p.mb-5(data-aos="fade-right") Se invita a consultar el siguiente video sobre la creación de una prenda de vestir inferior a modo de practica, en el Software de Audaces Patrones.
+    p.mb-5(data-aos="zoom-in-left") Se invita a consultar el siguiente video sobre la creación de una prenda de vestir inferior a modo de practica, en el  #[i Software ] de Audaces Patrones.
     
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-lg-1
-      .col-lg-10(data-aos="fade-left")
+      .col-lg-10 
         figure
           .video          
             iframe(width="1280" height="720" src="https://www.youtube.com/embed/me2KUVooBmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Fuente: SENA 2021
     .col-lg-1
 
-    p.mb-5(data-aos="fade-right") Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el software de Audaces Patrones, teniendo en cuenta que ya se pudo ver cómo se construía un patrón desde cero, en el video se podrá observar un ejercicio de interpretación.
+    p.mb-5(data-aos="zoom-in-left") Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el  #[i software ] de Audaces Patrones, teniendo en cuenta que ya se pudo evidenciar cómo se construía un patrón desde cero, en el video se podrá evidenciar un ejercicio de interpretación.
 
-     .row.mb-4
+    .row.mb-4(data-aos="zoom-in-left")
       .col-lg-1
-      .col-lg-10(data-aos="fade-left")
+      .col-lg-10 
         figure
           .video          
             iframe(width="1280" height="720" src="https://www.youtube.com/embed/2yBXPB4JAuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -323,47 +371,45 @@
 
     Separador
 
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.3 Escalado de patrones en “Audaces Patrones”
 
-    p.mb-5(data-aos="fade-right") Como se ha mencionado, para dar una correcta aplicación a las herramientas de escalado se debe tener presente que se aplicarán las medidas o datos numéricos acordes a la metodología del patronista o escalador, para ello, en el programa se deben establecer las tallas primero a partir del patrón base, como se muestra en la imagen siguiente, una vez creado el patrón, se le da clic derecho y se selecciona propiedades, seguido, se pincha en la pestaña de escalado y se asignan las respectivas tallas.
+    p.mb-5(data-aos="zoom-in-left") Como se ha mencionado, para dar una correcta aplicación a las herramientas de escalado se debe tener presente que se aplicarán las medidas o datos numéricos acordes a la metodología del patronista o escalador, para ello, en el programa se deben establecer las tallas primero a partir del patrón base, como se muestra en la imagen siguiente, una vez creado el patrón, se le da clic derecho y se selecciona propiedades, seguido, se pincha en la pestaña de escalado y se asignan las respectivas tallas.
     
-    .row.mb-5.py-5.bg-8
+    .row.mb-5.py-5.bg-8(data-aos="zoom-in-left")
       .col-lg-1
-      .col-lg-10.py-3(data-aos="fade-left")
+      .col-lg-10.py-3 
         figure
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          .titulo-sexto.color-acento-contenido 
             h5 Figura 13.
             span Propiedades, escalado para asignación de tallas
           img(src='@/assets/curso/tema1/img15.png' alt="Figura 13. Propiedades, escalado para asignación de tallas")
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5(data-aos="fade-right") En la figura anterior, se observa que la talla base, está señalada por el programa en rojo y las demás no, a estas se les asigna colores diferentes, pinchando en cada uno de los cajones, esto para cuando se esté escalando se puedan diferenciar las líneas de los patrones resultantes. 
+    p.mb-5(data-aos="zoom-in-left") En la figura anterior, se presenta la talla base de color rojo, pues el programa así lo demarca y las demás no, a estas se les asigna colores diferentes, pinchando en cada uno de los cajones, esto para cuando se esté escalando se puedan diferenciar las líneas de los patrones resultantes. 
 
-    .row.mb-5.py-5.fondo-gris-1
+    .row.mb-5.py-5.fondo-gris-1(data-aos="zoom-in-left")
       .col-lg-1
-      .col-lg-10.py-3(data-aos="fade-left")
+      .col-lg-10.py-3 
         figure
-          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          .titulo-sexto.color-acento-contenido 
             h5 Figura 14.
             span Escalado por tabla
           img(src='@/assets/curso/tema1/img16.png' alt="Figura 14. Escalado por tabla")
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5(data-aos="fade-right") En la figura anterior, al seleccionar una tabla y acceder a la pestaña de escalado, se despliega una ventana donde se encuentran casillas para asignar los valores a escalar. Además, en la parte inferior se encuentran otros botones diseñados para facilitar este procedimiento. Para obtener una comprensión más profunda sobre el escalado, se recomienda revisar el video adjunto. 
+    p.mb-5(data-aos="zoom-in-left") En la figura anterior, al seleccionar una tabla y acceder a la pestaña de escalado, se despliega una ventana donde se encuentran casillas para asignar los valores a escalar. Además, en la parte inferior se encuentran otros botones diseñados para facilitar este procedimiento. Para obtener una comprensión más profunda sobre el escalado, se recomienda revisar el video adjunto. 
 
-    .row.mb-5
+    .row.mb-5(data-aos="zoom-in-left")
       .col-lg-1
-      .col-lg-10(data-aos="fade-left")
+      .col-lg-10 
         figurelll
           .video          
             iframe(width="1280" height="680" src="https://www.youtube.com/embed/8Kh3vxZfVJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Fuente: SENA 2021
       .col-lg-1
-    //.align-items-center
-    //.justify-content-center
 </template>
 
 <style lang="sass" scoped></style>

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Patronaje digital de prendas de vestir',
     descripcionCurso:
-      'Explicar el manejo de softwares para la elaboración de patrones y escalado digital, es parte de la comprensión de esta temática, es por ello, que se abordará todo el proceso de digitalización a partir del reconocimiento de la interfaz, hasta el proceso de trazo automático. Se abordarán los softwares Audaces 360 y OptiTex en detalle; y Gerber se abordará de manera general.',
+      'La comprensión de la elaboración de patrones y el escalado digital implica entender el manejo de  <i> software </i> especializado. Por ello, en este texto se explorará todo el proceso de digitalización, desde el reconocimiento de la interfaz hasta el trazo automático. Se analizarán en detalle dos programas clave: Audaces 360 y <i>OptiTex</i>. Además, se proporcionará una visión general del <i> software </i> Gerber.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -65,22 +65,23 @@ export default {
         nombreRuta: 'tema2',
 
         numero: '2',
-        titulo: 'OptiTex',
+        titulo: '<i>OptiTex</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Funciones básicas de PDS',
+            titulo: 'Funciones básicas de <i>PDS</i>',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Patronaje en OptiTex de prendas inferiores y superiores',
+            titulo:
+              'Patronaje en <i>OptiTex</i> de prendas inferiores y superiores',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Escalado de patrones en Marker OptiTex',
+            titulo: 'Escalado de patrones en Marker <i>OptiTex</i>',
             hash: 't_2_3',
           },
         ],
@@ -122,11 +123,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      // {
-      //   icono: 'fas fa-file-pdf',
-      //   titulo: 'Descargar PDF',
-      //   download: 'downloads/prueba.pdf',
-      // },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/material.pdf',
+      },
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
@@ -177,7 +178,7 @@ export default {
     {
       tema: '',
       referencia:
-        'Herramientas digitales Moda, 15 de marzo 2018, OPTITEX - MARKER Trazo de patrones.',
+        'Herramientas digitales Moda, 15 de marzo 2018, <i>OPTITEX - MARKER</i> Trazo de patrones.',
       tipo: 'Video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
@@ -191,11 +192,11 @@ export default {
   ],
   glosario: [
     {
-      termino: 'CAD',
+      termino: '<i>CAD</i>',
       significado: 'Diseño Asistido por Computador.',
     },
     {
-      termino: 'CAM',
+      termino: '<i>CAM</i>',
       significado: 'Manufacturas Asistidas por Computador.',
     },
     {
@@ -208,7 +209,7 @@ export default {
       significado: 'Zona de comunicación o acción de un sistema sobre otro.',
     },
     {
-      termino: 'PDS',
+      termino: '<i>PDS</i>',
       significado: 'Sistema de Diseño de Patrones.',
     },
     {
@@ -222,7 +223,7 @@ export default {
         'Descripción precisa de los pasos para realizar un proceso. Es la respuesta al cómo hacer el proceso.',
     },
     {
-      termino: 'Plotter',
+      termino: '<i>Plotter</i>',
       significado:
         'Es una impresora de gran formato que se utiliza para imprimir gráficos y planos.',
     },
@@ -237,9 +238,9 @@ export default {
         'Es un fragmento de la recta que está comprendido entre dos puntos, llamados puntos extremos o finales.',
     },
     {
-      termino: 'Software',
+      termino: '<i>Software</i>',
       significado:
-        'Se conoce como software, logicial o soporte lógico al sistema formal de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas.',
+        'Se conoce como <i>software</i>, logicial o soporte lógico al sistema formal de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas.',
     },
   ],
   referencias: [
@@ -250,7 +251,7 @@ export default {
     },
     {
       referencia:
-        'OptiTex - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021), Retrieved 27 May 2021, from',
+        '<i>OptiTex</i> - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021), Retrieved 27 May 2021, from',
       link: 'https://optitex.com/es/',
     },
     {
