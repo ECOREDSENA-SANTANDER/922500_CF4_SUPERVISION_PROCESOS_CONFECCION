@@ -142,48 +142,53 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema:
+        'Interpretación de pantys – Elaboración de ropa interior para dama tipo tanga y brasilera.',
       referencia:
         'SENA.  (2020).  Interpretación de pantys, recuperado el 27 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=9geZEB4JOtQ',
     },
     {
-      tema: '',
+      tema:
+        'Interpretación hípsters - Elaboración de ropa interior para dama tipo hípster.',
       referencia:
         'SENA.  (2021).  Interpretación hípsters, recuperado el 27 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-GlhLbiF6dY',
     },
     {
-      tema: '',
+      tema:
+        'Pantaloncillo masculino - Elaboración de ropa interior para caballero tipo pantaloncillo.',
       referencia:
         'SENA.  (2021).  Pantaloncillo masculino, recuperado el 27 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=v9mOfjGAG3Y',
     },
     {
-      tema: '',
+      tema:
+        'Herramienta de Software – Denominada Optitex utilizada para el diseño automatizado del patrón en confección.',
       referencia: 'Fernando Jaramillo - Soluciones automatizadas.',
       tipo: 'Manual',
       descarga: '/downloads/0.COMPLEMENTARIO 1 - MANUAL  VERSION 11.pdf',
     },
     {
-      tema: '',
+      tema: 'Herramienta digital Denominada Audaces Tizada.',
       referencia:
         'Herramientas digitales Moda, 13 de junio 2018, AUDACES TIZADA Trazo.',
       tipo: 'Video',
       link: 'https://youtu.be/C0O6derJC2s',
     },
     {
-      tema: '',
+      tema:
+        'Herramienta de Software – Denominada Optitex utilizada para trazo de patrón en confección',
       referencia:
         'Herramientas digitales Moda, 15 de marzo 2018, <i>OPTITEX - MARKER</i> Trazo de patrones.',
       tipo: 'Video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
-      tema: '',
+      tema: 'Tutorial Modaris de Lectra – Corte de manga para camisa ',
       referencia:
         'Goméz, M.  (2017).  Tutorial Modaris Lectra, reucperado el 28 de mayo de 2021.',
       tipo: 'Video',
