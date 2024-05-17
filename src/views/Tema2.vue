@@ -54,7 +54,7 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 15.
             span Interfaz general de #[i OptiTex] #[i PDS ]
-          img(src='@/assets/curso/tema2/img02.png' alt="Figura 15. Interfaz general de OptiTex  PDS ")
+          img(src='@/assets/curso/tema2/img02.png' alt='La imagen expone la interfaz general del software OptiTex PDS. La pantalla está dominada por un área de trabajo grande y amarilla. En la parte superior, hay una barra de herramientas con varias opciones y menús desplegables, como "Archivo", "Editar", "Ver", "Herramientas", y otros. En los bordes superior e izquierdo, hay reglas para la medición y alineación de los elementos en el área de trabajo.')
           figcaption Fuente: SENA 2021
       .col-lg-1
     
@@ -194,7 +194,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 16.
               span Interfaz #[i Marker ]
-            img(src='@/assets/curso/tema2/img03.png' alt="Figura 16. Interfaz general de OptiTex #[i PDS ]")
+            img(src='@/assets/curso/tema2/img03.png' alt='La imagen expone la interfaz del software Marker. En la parte superior, se encuentra una barra de herramientas con múltiples íconos y opciones, como "Archivo", "Editar", "Ver", "Opciones" y "Ayuda". La mayor parte de la pantalla está ocupada por un área de trabajo con un fondo gris y una sección central blanca, presumiblemente para el diseño de marcadores.')
             figcaption Fuente: SENA 2021
         .col-lg-1
 
@@ -234,7 +234,7 @@
               .titulo-sexto.color-acento-contenido
                 h5 Figura 17.
                 span Divisiones en la interfaz #[i PDS ]
-              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz  PDS")
+              img(src='@/assets/curso/tema2/img04.png' alt="La imagen muestra la interfaz de un software de diseño de patrones de costura. En la parte central, se observa el patrón de una falda femenina, específicamente la parte de la cintura y la cadera, con líneas y medidas detalladas. A la izquierda, hay un panel de propiedades donde se pueden ajustar varias características del patrón, como el tamaño y el ángulo. En la parte superior, se encuentra una barra de herramientas con diversas opciones para modificar y visualizar el diseño.")
               figcaption Fuente: SENA 2021
 
           .tarjeta.tarjeta--gris.p-3(x="11%" y="12%")
@@ -260,7 +260,7 @@
               .titulo-sexto.color-acento-contenido
                 h5 Figura 17. 
                 span Divisiones en la interfaz #[i PDS ]
-              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz  PDS")
+              img(src='@/assets/curso/tema2/img04.png' alt="La imagen muestra la interfaz de un software de diseño de patrones de costura. En la parte central, se observa el patrón de una falda femenina, específicamente la parte de la cintura y la cadera, con líneas y medidas detalladas. A la izquierda, hay un panel de propiedades donde se pueden ajustar varias características del patrón, como el tamaño y el ángulo. En la parte superior, se encuentra una barra de herramientas con diversas opciones para modificar y visualizar el diseño.")
               figcaption Fuente: SENA 2021
 
           .tarjeta.tarjeta--gris.p-3(x="11%" y="30%")
@@ -286,7 +286,7 @@
               .titulo-sexto.color-acento-contenido
                 h5 Figura 17. 
                 span Divisiones en la interfaz #[i PDS ]
-              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz  PDS")
+              img(src='@/assets/curso/tema2/img04.png' alt="La imagen muestra la interfaz de un software de diseño de patrones de costura. En la parte central, se observa el patrón de una falda femenina, específicamente la parte de la cintura y la cadera, con líneas y medidas detalladas. A la izquierda, hay un panel de propiedades donde se pueden ajustar varias características del patrón, como el tamaño y el ángulo. En la parte superior, se encuentra una barra de herramientas con diversas opciones para modificar y visualizar el diseño.")
               figcaption Fuente: SENA 2021
 
           .tarjeta.tarjeta--gris.p-3(x="11%" y="16%")
@@ -324,7 +324,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 18.
               span Caja de herramientas
-            img(src='@/assets/curso/tema2/img05.png' alt="Figura 18. Caja de herramientas")
+            img(src='@/assets/curso/tema2/img05.png' alt='La imagen expone una captura de pantalla de un software de diseño de patrones de ropa. En la parte superior, hay una barra de herramientas con varios íconos y menús desplegables. El menú desplegable actual es el de "Ver", que muestra opciones como "Ventana de Piezas", "Ventana de Costura", "Caja de Herramientas", y otras funciones relacionadas con la visualización y manipulación de los elementos en el área de trabajo.')
             figcaption Fuente: SENA 2021
 
           p.mb-5 Otra manera de encontrar las herramientas es situar el cursor debajo de la barra de menú y con clic derecho se listan las que están disponibles. De igual manera, se pueden activar las herramientas que se necesitan y dejar inactivas las que no se estén utilizando en el momento.
@@ -333,7 +333,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 19.
               span Activación de herramientas
-            img(src='@/assets/curso/tema2/img06.png' alt="Figura 19. Activación de herramientas")
+            img(src='@/assets/curso/tema2/img06.png' alt='La imagen es una captura de pantalla de un software de diseño de patrones de ropa, similar a la anterior. La barra de herramientas en la parte superior contiene varios íconos y menús desplegables. En esta imagen, el menú desplegable activo parece ser "General", que muestra opciones como "Escalar", "Corte", "Fusionar" y otras herramientas. En el área principal de la pantalla, se observan varios patrones de piezas de ropa, con una pieza en color azul destacada.')
             figcaption Fuente: SENA 2021
         
       .row(titulo="B. Configurar área de trabajo")
@@ -343,13 +343,13 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 20.
               span Preferencias
-            img(src='@/assets/curso/tema2/img07.png' alt="Figura 20. Preferencias")
+            img(src='@/assets/curso/tema2/img07.png' alt='La imagen muestra una captura de pantalla de un software de diseño de patrones de ropa. En la parte superior, se ve la barra de herramientas con múltiples íconos y menús desplegables. El menú desplegable seleccionado es "Herramientas", que incluye opciones como "Costura", "Pinzas", "Fijo", "Pliegues", "Editor de Segmento", "Líneas de Rastro", entre otras. En el área principal de trabajo, se muestra un patrón de pieza de ropa etiquetado como "CINTURÓN".')
             figcaption Fuente: SENA 2021
           figure.mb-5
             .titulo-sexto.color-acento-contenido
               h5 Figura 21.
               span Unidades de trabajo
-            img(src='@/assets/curso/tema2/img08.png' alt="Figura 21. Unidades de trabajo")
+            img(src='@/assets/curso/tema2/img08.png' alt='La imagen muestra la ventana de "Preferencias" de un software de diseño de patrones de ropa. En el panel izquierdo, se pueden ver varias categorías de configuración como "Principal", "Unidades de Trabajo", "Mostrar", "Pieza", "Abrir y Guardar", entre otras. En el panel derecho, se visualizan las opciones bajo "Unidades de Trabajo", con la opción "Unidad" destacada. El menú desplegable muestra las unidades de medida disponibles: "Milímetros", "Centímetros", "Metros", "Pulgadas", "Pies" y "Yardas".')
             figcaption Fuente: SENA 2021
           .row
             .col-lg-7
@@ -357,7 +357,7 @@
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 22.
                   span Configuración de colores
-                img(src='@/assets/curso/tema2/img09.png' alt="Figura 22. Configuración de colores")
+                img(src='@/assets/curso/tema2/img09.png' alt='La imagen muestra la ventana de "Preferencias" de un software de diseño de patrones de ropa, específicamente en la sección de "Configuración de colores". En el panel izquierdo, se pueden ver varias categorías de configuración, incluyendo "Principal", "Interna y Texto", "Pieza", "Abrir y Guardar", "Fuente", "Colores", entre otras. En el panel derecho, se listan las diferentes configuraciones de color disponibles para el área de trabajo, como "Fondo", "Color de Línea guía", "Rejilla", "Rayas", "Color de las reglas", "Color de relleno", y muchos otros. Cada opción tiene un cuadro de color asociado que indica el color seleccionado.')
                 figcaption Fuente: SENA 2021
             .col-lg-5.py-5
               p.mb-4 En esa ventana se puede configurar para:
@@ -408,7 +408,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 23.
               span Divisiones en la interfaz #[i PDS ]
-            img(src='@/assets/curso/tema2/img10.png' alt="Figura 23. Divisiones en la interfaz #[i PDS ]")
+            img(src='@/assets/curso/tema2/img10.png' alt='La imagen muestra la interfaz de usuario de un software de diseño de patrones de ropa llamado PDS. En la parte superior, hay una barra de herramientas con múltiples íconos y menús desplegables. El menú desplegable seleccionado es "Ver", que ofrece opciones como "Ventana de Piezas", "Tabla de Escalado", "Caja de Herramientas", "Ventana de Costura", entre otras. A la izquierda, hay un panel de "Caja de Herramientas" que lista herramientas favoritas, actualizaciones de piezas, piezas, y otras opciones de trabajo.')
             figcaption Fuente: SENA 2021            
               
       .row(titulo="D. Menú principal")
@@ -418,7 +418,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 24.
               span Menú principal
-            img(src='@/assets/curso/tema2/img11.png' alt="Figura 24. Menú principal")
+            img(src='@/assets/curso/tema2/img11.png' alt='La imagen muestra la barra de menú principal de un software de diseño de patrones de ropa. Los menús disponibles en esta barra son: "Archivo", "Editar", "Pieza", "Escalado", "Diseño", "3D", "Herramientas", "Ver", "O/Cloud" y "Ayuda". Cada uno de estos menús despliega diferentes opciones relacionadas con las funciones específicas del software.')
             figcaption Fuente: SENA 2021
       .row(titulo="E. Menú de herramientas gráficas")
         .col-sm-12.col-lg-12         
@@ -452,7 +452,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 25.
               span Herramientas generales
-            img(src='@/assets/curso/tema2/img12.png' alt="Figura 25. Herramientas generales")
+            img(src='@/assets/curso/tema2/img12.png' alt='Se describe en la figura la barra de herramientas generales de un software de diseño de patrones de ropa. Esta barra contiene diversos íconos que representan herramientas y funciones comunes, como selección, abrir, guardar, imprimir, deshacer, rehacer, copiar, pegar, cortar, herramientas de dibujo, zoom, y ayuda, entre otros.')
             figcaption Fuente: SENA 2021
       .row(titulo="F. Ventana de piezas")
         .col-sm-12.col-lg-12
@@ -461,7 +461,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 26.
               span Ventana piezas
-            img(src='@/assets/curso/tema2/img13.png' alt="Figura 26. Ventana piezas")
+            img(src='@/assets/curso/tema2/img13.png' alt='Se expone la "Ventana Piezas" de un software de diseño de patrones de ropa. En esta ventana se visualizan diferentes íconos que representan las diversas piezas de un patrón de ropa, como "MANGA", "ESPALDA", "FRENTE", "CINTURÓN", "FORRO FRENTE", "FORRO ESPALDA", "FORRO TRASERO", y "TRASERO". Cada ícono está acompañado de una representación visual simplificada de la pieza correspondiente')
             figcaption Fuente: SENA 2021
 
     Separador 
@@ -477,7 +477,7 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 27.
             span Creación de rectángulo
-          img(src='@/assets/curso/tema2/img14.png' alt="Figura 27. Creación de rectángulo")
+          img(src='@/assets/curso/tema2/img14.png' alt='La imagen muestra el menú "Nueva Pieza" en un software de diseño de patrones de ropa, con la opción "Crear Rectángulo" seleccionada. En el panel izquierdo, se observan herramientas y opciones relacionadas con las piezas de ropa.')
           figcaption Fuente: SENA 2021
       
 
@@ -580,7 +580,7 @@
             .titulo-sexto.text-figure-cus
               h5.text-figure-cus Figura 28.
               span.text-figure-cus Escalado
-            img.w-75-cus(src='@/assets/curso/tema2/img15.png' alt="Figura 28. Escalado")
+            img.w-75-cus(src='@/assets/curso/tema2/img15.png' alt='Se expone una pieza de patrón de ropa en un software de diseño, con el título "Figura 28. Escalado". La pieza de ropa es una parte frontal de un cuerpo, marcada como "FRONT" y coloreada en azul. Se observan líneas de costura y puntos de referencia en la pieza. En el panel izquierdo, hay una tabla con diferentes tallas y medidas.')
             figcaption.w-75-cus Fuente: SENA 2021
     
     p.mb-5(data-aos="zoom-in-left") <b>Preparación para iniciar el escalado:</b> Partimos de un patrón elaborado con aumentos de costura.
@@ -603,7 +603,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 29.
               span Apertura de tabla de tallas
-            img(src='@/assets/curso/tema2/img16.png' alt="Figura 29. Apertura de tabla de tallas")
+            img(src='@/assets/curso/tema2/img16.png' alt='Se expine la interfaz de un software de diseño de patrones de ropa.. El menú desplegable "Escalado" está abierto y muestra opciones como "Tabla de tallas", "Variación", "Copiar Escalado", "Pegar Escalado", "Escalado Múltiple", entre otras.')
             figcaption Fuente: SENA 2021
       .col-lg-6.d-flex 
         .bg-7.p-5
@@ -611,7 +611,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 30.
               span Tallas
-            img(src='@/assets/curso/tema2/img17.png' alt="Figura 30. Tallas")
+            img(src='@/assets/curso/tema2/img17.png' alt='La imagen describe la ventana "Tabla de Tallas" de un software de diseño de patrones de ropa, titulada "Figura 30. Tallas". La tabla de tallas incluye columnas para color, nombre, tipo de líneas, grosor, y opciones de visibilidad (mostrar o ocultar).')
             figcaption Fuente: SENA 2021
     .row.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.m-auto

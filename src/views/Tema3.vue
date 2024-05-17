@@ -45,7 +45,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 31.
             span Interfaz para patronar
-          img(src='@/assets/curso/tema3/img01.png' alt="Figura 31. Interfaz para patronar")
+          img(src='@/assets/curso/tema3/img01.png' alt='Se expone la interfaz de un software de patronaje. En la pantalla principal se visualizan varios patrones de piezas de ropa distribuidos en el área de trabajo. La barra de herramientas superior contiene múltiples opciones y herramientas relacionadas con el diseño de patrones, como "File", "Advanced", "Edit", "View", "Tools", "Piece", "Layout" y "Help".')
           figcaption Fuente: Gerber  #[i software ]
       .col-lg-1
 
@@ -57,7 +57,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 32.
             span Interfaz 3D
-          img(src='@/assets/curso/tema3/img02.png' alt="Figura 32. Interfaz 3D")
+          img(src='@/assets/curso/tema3/img02.png' alt='La figura expone la interfaz de un software de diseño de moda en 3D. A la izquierda, se visualiza un modelo 3D de un vestido azul, mostrando cómo se vería la prenda terminada. A la derecha, se muestran los patrones planos correspondientes a las diferentes piezas del vestido, también en azul. La barra de herramientas superior contiene varias opciones y herramientas relacionadas con el diseño y la simulación en 3D, mientras que a la izquierda hay un panel con una lista de piezas y materiales.')
           figcaption Fuente: Gerber  #[i software ]
       .col-lg-1
 
@@ -69,7 +69,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 33.
             span Interfaz marcada para corte
-          img(src='@/assets/curso/tema3/img03.png' alt="Figura 33. Interfaz marcada para corte")
+          img(src='@/assets/curso/tema3/img03.png' alt='Se describe la interfaz de un software de corte de telas. En la pantalla principal se visualizan múltiples piezas de patrón dispuestas sobre un área rectangular, todas marcadas en color naranja. Estas piezas están organizadas para optimizar el uso del material durante el corte. La barra de herramientas superior contiene diversas opciones y herramientas relacionadas con el corte y la disposición de las piezas. En la parte inferior, hay controles y opciones adicionales para ajustar el proceso de corte.')
           figcaption Fuente: Gerber  #[i software ]
       .col-lg-1
 

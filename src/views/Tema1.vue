@@ -94,7 +94,7 @@
             .titulo-sexto.color-acento-contenido 
               h5 Figura 1.
               span Interfaz general de Audaces Patrones
-            img(src='@/assets/curso/tema1/img03.png'  alt="Se describe en la imagen la herramienta audaces, en donde se deben dar las instrucciones correctas para poder obtener los patrones requeridos.")
+            img(src='@/assets/curso/tema1/img03.png'  alt="Se describe la interfaz general del software 'Audaces Patrones'. En la parte superior, hay una barra de herramientas con varias pestañas, como 'Inicio', 'Cortado', 'Reducción', 'Marcaciones', 'Escalado', 'Manipulación', 'Conversión', y 'Modelo'. Cada pestaña tiene diferentes opciones y herramientas relacionadas con el diseño de patrones")
             figcaption Fuente: SENA 2021
         
 
@@ -160,7 +160,7 @@
             .titulo-sexto.color-acento-contenido 
               h5 Figura 2.
               span Interfaz Audaces Tizada
-            img(src='@/assets/curso/tema1/img04.png' alt="Figura 2. Interfaz Audaces Tizada")
+            img(src='@/assets/curso/tema1/img04.png' alt="En esta figura la interfaz se enfoca en la tizada especializada. Cada pestaña tiene diferentes opciones y herramientas relacionadas con el diseño de patrones")
             figcaption Fuente: SENA 2021
         .col-lg-1
     .tarjeta.color-secundario.p-4.mb-5(data-aos="zoom-in-left")
@@ -198,7 +198,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 3.
                     span Pestaña de Inicio.
-                  img(src='@/assets/curso/tema1/img05.png', alt='A. Herramientas de inicio')
+                  img(src='@/assets/curso/tema1/img05.png', alt="Expone la pestaña 'Inicio' de la interfaz del software 'Audaces Patrones Avanzado'. Incluye varias herramientas organizadas en secciones como Archivo, Inicio, Construcción, Producción, Marcaciones, Escalado, Manipulación, Conferencia y Modelo. Las herramientas visibles abarcan opciones para manejo de archivos, edición básica, diseño y color, y selección de elementos.")
                   figcaption Fuente: SENA 2021
 
             .row.mb-5
@@ -209,7 +209,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 4.
                     span Pestaña de construcción.
-                  img(src='@/assets/curso/tema1/img06.png', alt='B. Herramientas de construcción ')
+                  img(src='@/assets/curso/tema1/img06.png', alt="Se muestra la pestaña 'Construcción' de la interfaz del software 'Audaces Patrones Avanzado'. Esta pestaña incluye herramientas para crear y modificar elementos de diseño, como líneas rectas, cuadrados, prolongación de líneas, y división de curvas. También ofrece opciones para espirales, edición de puntos, y creación de texto")
                   figcaption Fuente: SENA 2021
 
             .row.mb-5
@@ -220,7 +220,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 5.
                     span Pestaña de producción
-                  img(src='@/assets/curso/tema1/img07.png', alt='C. Herramientas de producción')
+                  img(src='@/assets/curso/tema1/img07.png', alt="La imagen muestra la pestaña 'Producción' de la interfaz del software 'Audaces Patrones Avanzado'. Incluye herramientas para crear y digitalizar patrones, definir el sentido del hilo, y completar los patrones con opciones como costura, línea de simetría, y pliegues. También ofrece herramientas para trabajar con pinzas, cortar, unir y borrar regiones.")
                   figcaption Fuente: SENA 2021
 
             .row.mb-5
@@ -231,7 +231,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 6.
                     span Pestaña de marcaciones
-                  img(src='@/assets/curso/tema1/img08.png', alt='D. Herramientas de marcaciones')
+                  img(src='@/assets/curso/tema1/img08.png', alt='Se muestra la pestaña "Marcaciones" de la interfaz del software "Audaces Patrones Avanzado". Esta sección incluye herramientas para agregar y borrar piquetes, introducir texto en los piquetes, y trabajar con múltiples piquetes. También permite alinear, registrar, sustituir y modificar piquetes, así como introducir o borrar líneas auxiliares.')
                   figcaption Fuente: SENA 2021
 
             .row.mb-5
@@ -242,7 +242,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 7.
                     span Pestaña de escalado
-                  img(src='@/assets/curso/tema1/img09.png', alt='E. Herramientas de escalado')
+                  img(src='@/assets/curso/tema1/img09.png', alt='Para continuar con las pestañas, se describe el "Escalado" de la interfaz del software "Audaces Patrones Avanzado". Incluye herramientas para crear tablas y reglas de escalado, automatizar el escalado, y ajustar el escalado de curvas. También permite unir, separar, agrupar, y deducir escalados, así como copiar y borrar escalados existentes.')
                   figcaption Fuente: SENA 2021
 
             .row.mb-5
@@ -253,7 +253,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 8.
                     span Pestaña de manipulación
-                  img(src='@/assets/curso/tema1/img10.png', alt='F. Herramientas de manipulación')
+                  img(src='@/assets/curso/tema1/img10.png', alt='La pestaña "Manipulación" de la interfaz del software "Audaces Patrones Avanzado". Incluye herramientas para manipular puntos, mover elementos, redefinir perímetros, rotar, copiar y reflejar. También permite definir cercas y curvas, introducir y excluir puntos, alinear, transformar elementos, y redondear o crear biseles.')
                   figcaption Fuente: SENA 2021
 
             .row.mb-5
@@ -264,7 +264,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 9.
                     span Pestaña de conferencia
-                  img(src='@/assets/curso/tema1/img11.png', alt='G. Herramientas de conferencia')
+                  img(src='@/assets/curso/tema1/img11.png', alt='La imagen muestra la pestaña "Conferencia" de la interfaz del software "Audaces Patrones Avanzado". Incluye herramientas para medir y comparar perímetros, cotar distancias, y calcular ángulos y radios. También permite realizar mediciones horizontales y verticales.')
                   figcaption Fuente: SENA 2021
 
             .row
@@ -275,7 +275,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 10.
                     span Pestaña de modelo
-                  img(src='@/assets/curso/tema1/img12.png', alt='H. Herramientas de modelo')
+                  img(src='@/assets/curso/tema1/img12.png', alt='La pestaña "Modelo" de la interfaz del software "Audaces Patrones Avanzado". Incluye herramientas para gestionar propiedades, información sobre telas y patrones, y datos del autor. También ofrece opciones para trabajar con variantes, relacionar piquetes, buscar modelos y manejar imágenes.')
                   figcaption Fuente: SENA 2021
 
             
@@ -335,7 +335,7 @@
             .titulo-sexto.color-acento-contenido 
               h5 Figura 11.
               span Patrón audaces
-            img(src='@/assets/curso/tema1/img13.png' alt="Figura 11. Patrón audaces")
+            img(src='@/assets/curso/tema1/img13.png' alt="La imagen muestra un patrón de prenda generado con el software 'Audaces Patrones'. El patrón está etiquetado con términos específicos: 'Contorno de corte', 'Patrón Base', 'Frente', y 'Margen da Costura'. Estas etiquetas indican las diferentes partes y márgenes del patrón.")
             figcaption Fuente: SENA 2021
       .col-sm-12.col-lg-6 
         div.bg-7.p-5
@@ -344,7 +344,7 @@
             .titulo-sexto.color-acento-contenido 
               h5 Figura 12.
               span Patrón Audaces escalado con costuras
-            img(src='@/assets/curso/tema1/img14.png' alt="Figura 12. Patrón Audaces escalado con costuras")
+            img(src='@/assets/curso/tema1/img14.png' alt='Se describe un patrón escalado de prenda con costuras generado con el software "Audaces Patrones". El patrón está etiquetado con la palabra "Frente" y presenta múltiples líneas que indican diferentes tamaños o ajustes de costura. A la derecha, hay un detalle ampliado de la zona de la sisa, mostrando las líneas de costura más claramente.')
             figcaption Fuente: SENA 2021
 
     p.mb-5(data-aos="zoom-in-left") Se invita a consultar el siguiente video sobre la creación de una prenda de vestir inferior a modo de practica, en el  #[i Software ] de Audaces Patrones.
@@ -383,7 +383,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 13.
             span Propiedades, escalado para asignación de tallas
-          img(src='@/assets/curso/tema1/img15.png' alt="Figura 13. Propiedades, escalado para asignación de tallas")
+          img(src='@/assets/curso/tema1/img15.png' alt='La imagen muestra la ventana de "Propiedades del patrón" en el software "Audaces Patrones", enfocada en el escalado para la asignación de tallas. En la ventana emergente, se observa una tabla que lista diferentes tallas (6, 8, 10, 12, 14) junto con sus respectivos colores. También se muestran varias opciones de configuración y propiedades del patrón, como la visualización y el nombre del escalado. En el fondo, se puede ver la interfaz principal del software con las diferentes pestañas y herramientas.')
           figcaption Fuente: SENA 2021
       .col-lg-1
 
@@ -396,7 +396,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 14.
             span Escalado por tabla
-          img(src='@/assets/curso/tema1/img16.png' alt="Figura 14. Escalado por tabla")
+          img(src='@/assets/curso/tema1/img16.png' alt='Se expone la herramienta de "Escalado por tabla" en el software "Audaces Patrones". En el centro, una ventana emergente permite ajustar las dimensiones de escalado (DX, DY) para diferentes tallas (10, 12, 14), cada una representada por un color específico. A la derecha, se observa un cuadro de coordenadas para precisión en el ajuste. En el fondo, se ve la interfaz principal del software con las herramientas y opciones de escalado destacadas, así como el patrón "PATRON 1" en el área de trabajo.')
           figcaption Fuente: SENA 2021
       .col-lg-1
 
