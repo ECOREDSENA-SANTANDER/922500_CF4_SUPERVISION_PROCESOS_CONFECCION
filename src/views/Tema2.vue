@@ -227,26 +227,78 @@
     
     .row.fondo-a.py-5.mb-5(data-aos="zoom-in-left")
       .col-lg-1
-      .col-lg-10.py-3 
-        ImagenInfografica.color-secundario.mb-5
+      .col-lg-10.py-3
+        ImagenInfografica.color-secundario.mb-5.d-none.d-lg-block
           template(v-slot:imagen)
             figure
               .titulo-sexto.color-acento-contenido
                 h5 Figura 17.
                 span Divisiones en la interfaz #[i PDS ]
-              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz #[i PDS ]")
+              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz  PDS")
               figcaption Fuente: SENA 2021
 
-          .tarjeta.tarjeta--gris.p-3(x="13%" y="16%")
+          .tarjeta.tarjeta--gris.p-3(x="11%" y="12%")
             .h5 1. Barra de título
 
-          .tarjeta.tarjeta--gris.p-3(x="40%" y="18%")
+          .tarjeta.tarjeta--gris.p-3(x="30%" y="16%")
+            .h5 2. Barra de menú
+
+          .tarjeta.tarjeta--gris.p-3(x="75%" y="19%")
+            .h5 3. Barra de herramientas
+
+          .tarjeta.tarjeta--gris.p-3(x="27%" y="28%")
+            .h5 4. Ventana de piezas
+
+          .tarjeta.tarjeta--gris.p-3(x="10%" y="70%")
+            .h5 5. Ventana de herramientas
+
+          .tarjeta.tarjeta--gris.p-3(x="75%" y="65%")
+            .h5 6. Área de trabajo
+        ImagenInfografica.color-secundario.mb-5.d-sm-block.d-md-none.d-lg-none
+          template(v-slot:imagen)
+            figure
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 17. 
+                span Divisiones en la interfaz #[i PDS ]
+              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz  PDS")
+              figcaption Fuente: SENA 2021
+
+          .tarjeta.tarjeta--gris.p-3(x="11%" y="30%")
+            .h5 1. Barra de título
+
+          .tarjeta.tarjeta--gris.p-3(x="30%" y="32%")
+            .h5 2. Barra de menú
+
+          .tarjeta.tarjeta--gris.p-3(x="75%" y="36%")
+            .h5 3. Barra de herramientas
+
+          .tarjeta.tarjeta--gris.p-3(x="27%" y="41%")
+            .h5 4. Ventana de piezas
+
+          .tarjeta.tarjeta--gris.p-3(x="10%" y="70%")
+            .h5 5. Ventana de herramientas
+
+          .tarjeta.tarjeta--gris.p-3(x="75%" y="65%")
+            .h5 6. Área de trabajo
+        ImagenInfografica.color-secundario.mb-5.d-none.d-md-block.d-lg-none
+          template(v-slot:imagen)
+            figure
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 17. 
+                span Divisiones en la interfaz #[i PDS ]
+              img(src='@/assets/curso/tema2/img04.png' alt="Figura 17. Divisiones en la interfaz  PDS")
+              figcaption Fuente: SENA 2021
+
+          .tarjeta.tarjeta--gris.p-3(x="11%" y="16%")
+            .h5 1. Barra de título
+
+          .tarjeta.tarjeta--gris.p-3(x="30%" y="20%")
             .h5 2. Barra de menú
 
           .tarjeta.tarjeta--gris.p-3(x="75%" y="23%")
             .h5 3. Barra de herramientas
 
-          .tarjeta.tarjeta--gris.p-3(x="27%" y="33%")
+          .tarjeta.tarjeta--gris.p-3(x="27%" y="31%")
             .h5 4. Ventana de piezas
 
           .tarjeta.tarjeta--gris.p-3(x="10%" y="70%")
