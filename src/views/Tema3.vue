@@ -40,7 +40,7 @@
     .row.bg-6.py-5.mb-5(data-aos="zoom-in-left")
       .col-lg-1
       .col-lg-10.py-3 
-        p.mb-5 Como se presenta en la imagen la herramienta Gerber  #[i software ], es útil para hacer patrones pues permite distribuir de la mejor forma los cortes requeridos.
+        p.mb-5 Como se presenta en la imagen la herramienta Gerber  #[i software, ] es útil para hacer patrones pues permite distribuir de la mejor forma los cortes requeridos.
         figure.mb-4
           .titulo-sexto.color-acento-contenido 
             h5 Figura 31.
@@ -64,13 +64,13 @@
     .row.fondo-gris-1.py-5.mb-5(data-aos="zoom-in-left")
       .col-lg-1
       .col-lg-10.py-3 
-        p.mb-5 Consultar la imagen número 33, en donde se expone la optimización de la tela utilizando esta herramienta de  #[i software ].
+        p.mb-5 Consultar la imagen número 33, en donde se expone la optimización de la tela utilizando esta herramienta de  #[i software. ]
         figure.mb-4
           .titulo-sexto.color-acento-contenido 
             h5 Figura 33.
             span Interfaz marcada para corte
           img(src='@/assets/curso/tema3/img03.png' alt='Se describe la interfaz de un software de corte de telas. En la pantalla principal se visualizan múltiples piezas de patrón dispuestas sobre un área rectangular, todas marcadas en color naranja. Estas piezas están organizadas para optimizar el uso del material durante el corte. La barra de herramientas superior contiene diversas opciones y herramientas relacionadas con el corte y la disposición de las piezas. En la parte inferior, hay controles y opciones adicionales para ajustar el proceso de corte.')
-          figcaption Fuente: Gerber  #[i software ]
+          figcaption Fuente: Gerber  #[i software.]
       .col-lg-1
 
     p.mb-5(data-aos="zoom-in-left")  Para consultar cómo funciona el programa ya entrado en práctica se invita al aprendiz a consultar los videos del canal “Patrones y costuras” en donde explican la utilización del  #[i software ] paso a paso para la creación de prendas.

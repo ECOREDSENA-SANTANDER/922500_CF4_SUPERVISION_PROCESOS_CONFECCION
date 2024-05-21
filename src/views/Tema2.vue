@@ -74,7 +74,7 @@
           li
             .lista-ol--cuadro__vineta.color-acento-botones 
               span c
-            p.mb-0  Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permite el complemento con los demás paquetes de #[i software ].
+            p.mb-0  Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permite el complemento con los demás paquetes de #[i software. ]
           li
             .lista-ol--cuadro__vineta.color-acento-botones 
               span d
@@ -442,11 +442,11 @@
 
           p.mb-4 <b>Digitalizar:</b> permite pasar un patrón físico (en papel) a una versión computarizada o digital.
 
-          p.mb-4 <b>Acercar, deshacer, rehacer, cortar, copiar, pegar:</b> herramientas que facilitan el trabajo con el #[i software ].
+          p.mb-4 <b>Acercar, deshacer, rehacer, cortar, copiar, pegar:</b> herramientas que facilitan el trabajo con el #[i software. ]
 
           p.mb-4 <b>Reemplazar original:</b> se interactúa con las piezas en el área de trabajo y en la ventana de piezas transfiriendo elementos de un archivo a otro.
 
-          p.mb-5 <b>Ayuda en línea:</b> permite recibir asistencia del área de soporte del proveedor del #[i software ].
+          p.mb-5 <b>Ayuda en línea:</b> permite recibir asistencia del área de soporte del proveedor del #[i software. ]
       
           figure.mb-4
             .titulo-sexto.color-acento-contenido

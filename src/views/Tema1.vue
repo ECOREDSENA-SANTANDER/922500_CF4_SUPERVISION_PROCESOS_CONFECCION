@@ -171,11 +171,11 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p #[b Audaces Tizada ] 
-                span A continuación, le invitamos a consultar el video de “Herramientas digitales moda”, en donde se podrá apreciar el paso a paso para la elaboración de un patrón en el  #[i Software ].
+                span A continuación, le invitamos a consultar el video de “Herramientas digitales moda”, en donde se podrá apreciar el paso a paso para la elaboración de un patrón en el  #[i Software. ]
             .col-sm-auto
               a.boton.color-acento-contenido.text-white(href="https://www.youtube.com/watch?v=C0O6derJC2s" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+                span Ir al sitio
+                i.fas.fa-link
         
     
 
@@ -294,14 +294,14 @@
               .anexo__icono
                 img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
-                p <b>Enlace web.</b> Interfaz de Audaces
+                p <b>Enlace web.</b> Interfaz de Audaces.
           .col-lg-5
             p.mb-4 <b>3. Elemento vs Patrón</b>
             a.anexo(href="https://www.youtube.com/watch?v=2TVCOrR_ECA" target="_blank")
                 .anexo__icono
                   img(src="@/assets/componentes/icono-link.svg" )
                 .anexo__texto
-                  p <b>Enlace web.</b> Elemento vs Patrón    
+                  p <b>Enlace web.</b> Elemento vs Patrón.    
           .col-lg-1
         .row
           .col-lg-1
@@ -311,14 +311,14 @@
               .anexo__icono
                 img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
-                p <b>Enlace web.</b> Elementos básicos de Audaces  
+                p <b>Enlace web.</b> Elementos básicos de Audaces.  
           .col-lg-5
             p.mb-4 <b>4. Snap clásico automático</b>
             a.anexo(href="https://www.youtube.com/watch?v=UMZiH0aZQNo" target="_blank")
               .anexo__icono
                 img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
-                p <b>Enlace web.</b> Snap clásico automático
+                p <b>Enlace web.</b> Snap clásico automático.
           .col-lg-1
       .col-lg-2
 
