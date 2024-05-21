@@ -285,7 +285,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -294,40 +294,40 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          cargo: 'Asesor Pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },
         {
           nombre: 'Leidy Johana Velásquez Hernández',
-          cargo: 'Experta temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          cargo: 'Experta Temática',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda ',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          cargo: 'Experta Temática',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda ',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
-          cargo: 'Diseñadora instruccional ',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          cargo: 'Diseñadora Instruccional ',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñador y evaluador instruccional',
+          cargo: 'Diseñador y Evaluador Instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica ',
         },
         {
           nombre: 'Sandra Paola Morales Paez',
           cargo: 'Evaluadora Instruccional ',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico ',
         },
       ],
     },
@@ -336,13 +336,13 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñadora web',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Diseñadora Web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora Full-Stack',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -352,17 +352,17 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
