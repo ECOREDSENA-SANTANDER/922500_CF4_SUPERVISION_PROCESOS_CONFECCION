@@ -21,7 +21,7 @@
       .col-lg-12(data-aos="fade-left")
         figure
           .video          
-            iframe(width="1280" height="720" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/NGbhLd1Z4Bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Fuente: SENA 2021
       
 </template>

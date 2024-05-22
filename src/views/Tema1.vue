@@ -184,7 +184,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.1  Funciones básicas
 
-    p.mb-4(data-aos="zoom-in-left") Este programa cuenta con una serie de pestañas que tiene integrado de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista; a continuación, se muestran cada una de las pestañas:
+    p.mb-4(data-aos="zoom-in-left") Este programa cuenta con una serie de pestañas que tiene integrado de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista; a continuación, se presentan cada una de las pestañas:
 
     .bg-5.fullview
       .row.py-5.mb-5(data-aos="zoom-in-left")       
@@ -290,14 +290,14 @@
           .col-lg-1
           .col-lg-5.align-items-center
             p.mb-4 <b> 1. Interfaz de Audaces</b>
-            a.anexo(href="https://www.youtube.com/watch?v=lSZta00zN0A" target="_blank")
+            a.anexo(href="https://www.youtube.com/watch?v=ytvY829CWO8" target="_blank")
               .anexo__icono
                 img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
                 p <b>Enlace web.</b> Interfaz de Audaces.
           .col-lg-5
             p.mb-4 <b>3. Elemento vs Patrón</b>
-            a.anexo(href="https://www.youtube.com/watch?v=2TVCOrR_ECA" target="_blank")
+            a.anexo(href="https://www.youtube.com/watch?v=CU0sxBFzgrw" target="_blank")
                 .anexo__icono
                   img(src="@/assets/componentes/icono-link.svg" )
                 .anexo__texto
@@ -307,18 +307,18 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b> 2. Elementos básicos de Audaces</b>
-            a.anexo(href="https://www.youtube.com/watch?v=X4KJlTEPamA" target="_blank")
+            a.anexo(href="https://www.youtube.com/watch?v=ckBtiAsQIvk" target="_blank")
               .anexo__icono
                 img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
                 p <b>Enlace web.</b> Elementos básicos de Audaces.  
           .col-lg-5
-            p.mb-4 <b>4. Snap clásico automático</b>
-            a.anexo(href="https://www.youtube.com/watch?v=UMZiH0aZQNo" target="_blank")
+            p.mb-4 <b>4. <i>Snap</i> clásico automático</b>
+            a.anexo(href="https://www.youtube.com/watch?v=8hhHnd3JVfc" target="_blank")
               .anexo__icono
                 img(src="@/assets/componentes/icono-link.svg" )
               .anexo__texto
-                p <b>Enlace web.</b> Snap clásico automático.
+                p <b>Enlace web.</b> <i>Snap</i> clásico automático.
           .col-lg-1
       .col-lg-2
 
@@ -347,15 +347,15 @@
             img(src='@/assets/curso/tema1/img14.png' alt='Se describe un patrón escalado de prenda con costuras generado con el software "Audaces Patrones". El patrón está etiquetado con la palabra "Frente" y presenta múltiples líneas que indican diferentes tamaños o ajustes de costura. A la derecha, hay un detalle ampliado de la zona de la sisa, mostrando las líneas de costura más claramente.')
             figcaption Fuente: SENA 2021
 
-    p.mb-5(data-aos="zoom-in-left") Se invita a consultar el siguiente video sobre la creación de una prenda de vestir inferior a modo de practica, en el  #[i Software ] de Audaces Patrones.
+    p.mb-5(data-aos="zoom-in-left") Se invita a consultar el siguiente video sobre la creación de una prenda de vestir inferior a modo de práctica, en el  #[i Software ] de Audaces Patrones.
     
     .row.mb-5(data-aos="zoom-in-left")
       .col-lg-1
       .col-lg-10 
         figure
           .video          
-            iframe(width="1280" height="720" src="https://www.youtube.com/embed/me2KUVooBmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Fuente: SENA 2021
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/R-8DvMZm3jI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Fuente: SENA 2024
     .col-lg-1
 
     p.mb-5(data-aos="zoom-in-left") Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el  #[i software ] de Audaces Patrones, teniendo en cuenta que ya se pudo evidenciar cómo se construía un patrón desde cero, en el video se podrá evidenciar un ejercicio de interpretación.
@@ -365,8 +365,8 @@
       .col-lg-10 
         figure
           .video          
-            iframe(width="1280" height="720" src="https://www.youtube.com/embed/2yBXPB4JAuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Fuente: SENA 2021
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/63noqjjRBs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Fuente: SENA 2024
       .col-lg-1
 
     Separador
@@ -383,7 +383,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 13.
             span Propiedades, escalado para asignación de tallas
-          img(src='@/assets/curso/tema1/img15.png' alt='La imagen muestra la ventana de "Propiedades del patrón" en el software "Audaces Patrones", enfocada en el escalado para la asignación de tallas. En la ventana emergente, se observa una tabla que lista diferentes tallas (6, 8, 10, 12, 14) junto con sus respectivos colores. También se muestran varias opciones de configuración y propiedades del patrón, como la visualización y el nombre del escalado. En el fondo, se puede ver la interfaz principal del software con las diferentes pestañas y herramientas.')
+          img(src='@/assets/curso/tema1/img15.png' alt='La imagen muestra la ventana de "Propiedades del patrón" en el software "Audaces Patrones", enfocada en el escalado para la asignación de tallas. En la ventana emergente, se observa una tabla que lista diferentes tallas (6, 8, 10, 12, 14) junto con sus respectivos colores. También se presentan varias opciones de configuración y propiedades del patrón, como la visualización y el nombre del escalado. En el fondo, se puede ver la interfaz principal del software con las diferentes pestañas y herramientas.')
           figcaption Fuente: SENA 2021
       .col-lg-1
 
@@ -407,8 +407,8 @@
       .col-lg-10 
         figurelll
           .video          
-            iframe(width="1280" height="680" src="https://www.youtube.com/embed/8Kh3vxZfVJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Fuente: SENA 2021
+            iframe(width="1280" height="680" src="https://www.youtube.com/embed/CtsT0_0Upig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Fuente: SENA 2024
       .col-lg-1
 </template>
 

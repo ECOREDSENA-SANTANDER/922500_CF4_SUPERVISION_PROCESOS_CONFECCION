@@ -57,7 +57,7 @@
           .titulo-sexto.color-acento-contenido 
             h5 Figura 32.
             span Interfaz 3D
-          img(src='@/assets/curso/tema3/img02.png' alt='La figura expone la interfaz de un software de diseño de moda en 3D. A la izquierda, se visualiza un modelo 3D de un vestido azul, mostrando cómo se vería la prenda terminada. A la derecha, se muestran los patrones planos correspondientes a las diferentes piezas del vestido, también en azul. La barra de herramientas superior contiene varias opciones y herramientas relacionadas con el diseño y la simulación en 3D, mientras que a la izquierda hay un panel con una lista de piezas y materiales.')
+          img(src='@/assets/curso/tema3/img02.png' alt='La figura expone la interfaz de un software de diseño de moda en 3D. A la izquierda, se visualiza un modelo 3D de un vestido azul, mostrando cómo se vería la prenda terminada. A la derecha, se presentan los patrones planos correspondientes a las diferentes piezas del vestido, también en azul. La barra de herramientas superior contiene varias opciones y herramientas relacionadas con el diseño y la simulación en 3D, mientras que a la izquierda hay un panel con una lista de piezas y materiales.')
           figcaption Fuente: Gerber  #[i software ]
       .col-lg-1
 

@@ -490,7 +490,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>1. Trazo de la falda</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=WV4cu53pWxI" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=Bm8tEpqKDtI" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -499,7 +499,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>2. Trazo de la base superior femenina</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=X4KNcAe4-FA" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -508,7 +508,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>3. Traslados de pinza</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=gUEDWvGuc2k" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=5MttEL044vw" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -518,7 +518,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>4. Cortes base superior femenina</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=ii4H63hkOZQ" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=5IFOw9kqvGw" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -527,7 +527,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>5. Blusa hasta la cadera delantero</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=TYk4x8LnIXU" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=nK68BdFTM6Y" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -536,7 +536,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>6. Blusa hasta la cadera espalda</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=8-oyqpzDseo" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=SGyBgw1NNlk" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -546,7 +546,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>7. Cortes princesa y francés</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=RMw9IStPYzA" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=FV13Ljc1TxM" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -555,7 +555,7 @@
             .col-lg-4
               .card-cus.px-5.py-3
                 p.mb-4 <b>8. Modelos de faldas</b>
-                a.mb-3.anexo(href="https://www.youtube.com/watch?v=DwDBOSykx2o" target="_blank")
+                a.mb-3.anexo(href="https://www.youtube.com/watch?v=oNEVi41jzMk" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg" )
                   .anexo__texto
@@ -632,8 +632,8 @@
       .col-sm-12.col-lg-10.m-auto.justify-content-center
         figure
           .video          
-            iframe(width="1280" height="720" src="https://www.youtube.com/embed/NdZGHw_-8bA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Fuente: SENA 2021
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/IwhNd_bypU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Fuente: SENA 2024
 </template>
 
 <script>
