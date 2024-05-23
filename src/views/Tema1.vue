@@ -374,7 +374,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.3 Escalado de patrones en “Audaces Patrones”
 
-    p.mb-5(data-aos="zoom-in-left") Como se ha mencionado, para dar una correcta aplicación a las herramientas de escalado se debe tener presente que se aplicarán las medidas o datos numéricos acordes a la metodología del patronista o escalador, para ello, en el programa se deben establecer las tallas primero a partir del patrón base, como se muestra en la imagen siguiente, una vez creado el patrón, se le da clic derecho y se selecciona propiedades, seguido, se pincha en la pestaña de escalado y se asignan las respectivas tallas.
+    p.mb-5(data-aos="zoom-in-left") Como se ha mencionado, para dar una correcta aplicación a las herramientas de escalado se debe tener presente que se aplicarán las medidas o datos numéricos acordes a la metodología del patronista o escalador, para ello, en el programa se deben establecer las tallas primero a partir del patrón base, como se presenta en la imagen siguiente, una vez creado el patrón, se le da clic derecho y se selecciona propiedades, seguido, se pincha en la pestaña de escalado y se asignan las respectivas tallas.
     
     .row.mb-5.py-5.bg-8(data-aos="zoom-in-left")
       .col-lg-1
