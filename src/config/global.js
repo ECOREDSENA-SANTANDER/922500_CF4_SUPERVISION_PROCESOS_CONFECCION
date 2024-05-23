@@ -336,7 +336,7 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñadora Web',
+          cargo: 'Diseñadora de Contenidos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
