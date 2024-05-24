@@ -205,7 +205,7 @@ export default {
       significado: 'Manufacturas Asistidas por Computador.',
     },
     {
-      termino: 'Digitalizadora	',
+      termino: 'Digitalizadora',
       significado:
         'Es un periférico que permite al usuario introducir gráficos o dibujos a mano, tal como lo haría con lápiz y papel.',
     },
@@ -342,6 +342,11 @@ export default {
         {
           nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora Full-Stack',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

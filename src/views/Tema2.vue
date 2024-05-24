@@ -603,7 +603,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 29.
               span Apertura de tabla de tallas
-            img(src='@/assets/curso/tema2/img16.png' alt='Se expine la interfaz de un software de diseño de patrones de ropa.. El menú desplegable "Escalado" está abierto y muestra opciones como "Tabla de tallas", "Variación", "Copiar Escalado", "Pegar Escalado", "Escalado Múltiple", entre otras.')
+            img(src='@/assets/curso/tema2/img16.png' alt='Se expone la interfaz de un software de diseño de patrones de ropa.. El menú desplegable "Escalado" está abierto y muestra opciones como "Tabla de tallas", "Variación", "Copiar Escalado", "Pegar Escalado", "Escalado Múltiple", entre otras.')
             figcaption Fuente: SENA 2021
       .col-lg-6.d-flex 
         .bg-7.p-5
