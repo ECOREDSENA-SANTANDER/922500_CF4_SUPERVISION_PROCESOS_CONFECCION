@@ -126,7 +126,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF04_CFA.zip',
+        download: 'downloads/922500_CF04_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -170,7 +170,7 @@ export default {
         'Herramienta de Software – Denominada Optitex utilizada para el diseño automatizado del patrón en confección.',
       referencia: 'Fernando Jaramillo - Soluciones automatizadas.',
       tipo: 'Manual',
-      descarga: '/downloads/0.COMPLEMENTARIO 1 - MANUAL  VERSION 11.pdf',
+      descarga: '/downloads/COMPLEMENTARIO1_MANUAL_VERSION_11.pdf',
     },
     {
       tema: 'Herramienta digital Denominada Audaces Tizada.',
@@ -190,7 +190,7 @@ export default {
     {
       tema: 'Tutorial Modaris de Lectra – Corte de manga para camisa ',
       referencia:
-        'Goméz, M.  (2017).  Tutorial Modaris Lectra, reucperado el 28 de mayo de 2021.',
+        'Goméz, M.  (2017).  Tutorial Modaris Lectra, recuperado el 28 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qRMjHPIRPiQ',
     },
@@ -251,7 +251,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Audaces 360 - The most complete solution in systems for the fashion industry. (2021). Retrieved 27 May 2021, from',
+        'Audaces 360 - The most complete solution in systems for the fashion industry. (2021). 27 May 2021, from',
       link: 'https://audaces.com/audaces-360/',
     },
     {
@@ -261,7 +261,7 @@ export default {
     },
     {
       referencia:
-        'Gerber - convierta sus diseños en productos acabados. (2021), Retrieved 27 May 2021, from',
+        'Gerber - convierta sus diseños en productos acabados. (2021), 27 May 2021, from',
       link: 'https://www.lectra.com/es',
     },
     {
@@ -341,7 +341,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora Full-Stack',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
