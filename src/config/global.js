@@ -256,7 +256,7 @@ export default {
     },
     {
       referencia:
-        '<i>OptiTex</i> - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021), Retrieved 27 May 2021, from',
+        '<i>OptiTex</i> - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021), 27 May 2021, from',
       link: 'https://optitex.com/es/',
     },
     {
